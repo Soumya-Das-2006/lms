@@ -1,0 +1,3865 @@
+Folder PATH listing for volume Soumya
+Volume serial number is DE47-5BF2
+D:.
+¦   change_password_student.php
+¦   change_password_teacher.php
+¦   dasboard_teacher.php
+¦   dashboard_student.php
+¦   header_dashboard.php
+¦   navbar_student.php
+¦   navbar_teacher.php
+¦   profile_teacher.php
+¦   signup_student.php
+¦   signup_teacher.php
+¦   signup_teacher_form.php
+¦   structure.txt
+¦   student_sidebar.php
+¦   student_signin_form.php
+¦   student_signup.php
+¦   teacher_count.php
+¦   teacher_right_sidebar.php
+¦   teacher_sidebar.php
+¦   teacher_signup.php
+¦   update_password_student.php
+¦   
++---api
+¦       attendance.php
+¦       attendance_operation.php
+¦       chat_operations.php
+¦       class_controls.php
+¦       class_operation.php
+¦       class_operations.php
+¦       hand_raise_operations.php
+¦       log_attendance.php
+¦       log_network.php
+¦       poll_operations.php
+¦       
++---assets
+¦   +---css
+¦   ¦       online_classes.css
+¦   ¦       
+¦   +---js
+¦           online_classes.js
+¦           
++---authentication
+¦       change_password_sidebar.php
+¦       change_password_sidebar_student.php
+¦       login_form.php
+¦       update_password.php
+¦       
++---db
+¦       capstone.sql
+¦       parul_university_lms.sql
+¦       
++---file_operations
+¦       history.php
+¦       opener_db.php
+¦       upload_save.php
+¦       upload_save_student.php
+¦       
++---Learning Management System
+¦   ¦   change_password_student.php
+¦   ¦   change_password_teacher.php
+¦   ¦   dasboard_teacher.php
+¦   ¦   dashboard_student.php
+¦   ¦   header_dashboard.php
+¦   ¦   navbar_student.php
+¦   ¦   navbar_teacher.php
+¦   ¦   profile_teacher.php
+¦   ¦   signup_student.php
+¦   ¦   signup_teacher.php
+¦   ¦   signup_teacher_form.php
+¦   ¦   student_sidebar.php
+¦   ¦   student_signin_form.php
+¦   ¦   student_signup.php
+¦   ¦   teacher_count.php
+¦   ¦   teacher_right_sidebar.php
+¦   ¦   teacher_sidebar.php
+¦   ¦   teacher_signup.php
+¦   ¦   update_password_student.php
+¦   ¦   
+¦   +---api
+¦   ¦       attendance.php
+¦   ¦       attendance_operation.php
+¦   ¦       chat_operations.php
+¦   ¦       class_controls.php
+¦   ¦       class_operation.php
+¦   ¦       class_operations.php
+¦   ¦       hand_raise_operations.php
+¦   ¦       log_attendance.php
+¦   ¦       log_network.php
+¦   ¦       poll_operations.php
+¦   ¦       
+¦   +---assets
+¦   ¦   +---css
+¦   ¦   ¦       online_classes.css
+¦   ¦   ¦       
+¦   ¦   +---js
+¦   ¦           online_classes.js
+¦   ¦           
+¦   +---authentication
+¦   ¦       change_password_sidebar.php
+¦   ¦       change_password_sidebar_student.php
+¦   ¦       login_form.php
+¦   ¦       update_password.php
+¦   ¦       
+¦   +---db
+¦   ¦       capstone.sql
+¦   ¦       parul_university_lms.sql
+¦   ¦       
+¦   +---file_operations
+¦   ¦       history.php
+¦   ¦       opener_db.php
+¦   ¦       upload_save.php
+¦   ¦       upload_save_student.php
+¦   ¦       
+¦   +---lms_system
+¦   ¦   ¦   about.php
+¦   ¦   ¦   campuses.php
+¦   ¦   ¦   check_database.php
+¦   ¦   ¦   dbcon.php
+¦   ¦   ¦   developers.php
+¦   ¦   ¦   directories.php
+¦   ¦   ¦   google0eaee4f9fabfdea8.html
+¦   ¦   ¦   index.php
+¦   ¦   ¦   link.php
+¦   ¦   ¦   link_about.php
+¦   ¦   ¦   login.php
+¦   ¦   ¦   logout.php
+¦   ¦   ¦   README.md
+¦   ¦   ¦   script.php
+¦   ¦   ¦   session.php
+¦   ¦   ¦   sitemap.xml
+¦   ¦   ¦   title_index.php
+¦   ¦   ¦   web_control.php
+¦   ¦   ¦   
+¦   ¦   +---admin
+¦   ¦       ¦   admin_sidebar.php
+¦   ¦       ¦   dashboard.php
+¦   ¦       ¦   dbcon.php
+¦   ¦       ¦   de_activate.php
+¦   ¦       ¦   footer.php
+¦   ¦       ¦   header.php
+¦   ¦       ¦   index.php
+¦   ¦       ¦   login.php
+¦   ¦       ¦   logout.php
+¦   ¦       ¦   modal_delete.php
+¦   ¦       ¦   navbar.php
+¦   ¦       ¦   navbar_index.php
+¦   ¦       ¦   script.php
+¦   ¦       ¦   session.php
+¦   ¦       ¦   
+¦   ¦       +---activity_logs
+¦   ¦       ¦       activity_log.php
+¦   ¦       ¦       activity_log_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---assets
+¦   ¦       ¦   +---css
+¦   ¦       ¦   ¦       DT_bootstrap.css
+¦   ¦       ¦   ¦       jquery-ui-1.10.1.custom.css
+¦   ¦       ¦   ¦       online_classes.css
+¦   ¦       ¦   ¦       style.css
+¦   ¦       ¦   ¦       styles.css
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---fonts
+¦   ¦       ¦   ¦       TR
+¦   ¦       ¦   ¦       TR Century Gothic.ttf
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---js
+¦   ¦       ¦           DT_bootstrap.js
+¦   ¦       ¦           jquery-ui-1.10.1.custom.js
+¦   ¦       ¦           jquery.hoverdir.js
+¦   ¦       ¦           scripts.js
+¦   ¦       ¦           
+¦   ¦       +---assignment_management
+¦   ¦       ¦       assignment.php
+¦   ¦       ¦       assignment_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---bootstrap
+¦   ¦       ¦   +---css
+¦   ¦       ¦   ¦       bootstrap-responsive.css
+¦   ¦       ¦   ¦       bootstrap-responsive.min.css
+¦   ¦       ¦   ¦       bootstrap.css
+¦   ¦       ¦   ¦       bootstrap.min.css
+¦   ¦       ¦   ¦       font-awesome.css
+¦   ¦       ¦   ¦       hetilica.ttf
+¦   ¦       ¦   ¦       index
+¦   ¦       ¦   ¦       index - Copy.css
+¦   ¦       ¦   ¦       index.css
+¦   ¦       ¦   ¦       Molot.otf
+¦   ¦       ¦   ¦       my_style.css
+¦   ¦       ¦   ¦       print.css
+¦   ¦       ¦   ¦       ProximaNova-Light.otf
+¦   ¦       ¦   ¦       TR
+¦   ¦       ¦   ¦       TR Century Gothic.ttf
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---font
+¦   ¦       ¦   ¦       fontawesome-webfont.eot
+¦   ¦       ¦   ¦       fontawesome-webfont.svg
+¦   ¦       ¦   ¦       fontawesome-webfont.ttf
+¦   ¦       ¦   ¦       fontawesome-webfont.woff
+¦   ¦       ¦   ¦       FontAwesome.otf
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---img
+¦   ¦       ¦   ¦       glyphicons-halflings-white.png
+¦   ¦       ¦   ¦       glyphicons-halflings.png
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---js
+¦   ¦       ¦           bootstrap.js
+¦   ¦       ¦           bootstrap.min.js
+¦   ¦       ¦           
+¦   ¦       +---calendar_events
+¦   ¦       ¦       add_class_event.php
+¦   ¦       ¦       admin_calendar_script.php
+¦   ¦       ¦       calendar.php
+¦   ¦       ¦       calendar_of_events.php
+¦   ¦       ¦       delete_event.php
+¦   ¦       ¦       sidebar_calendar.php
+¦   ¦       ¦       
+¦   ¦       +---class_management
+¦   ¦       ¦       add_class.php
+¦   ¦       ¦       class.php
+¦   ¦       ¦       class_sidebar.php
+¦   ¦       ¦       delete_class.php
+¦   ¦       ¦       edit_class.php
+¦   ¦       ¦       edit_class_form.php
+¦   ¦       ¦       
+¦   ¦       +---content_management
+¦   ¦       ¦       add_content.php
+¦   ¦       ¦       content.php
+¦   ¦       ¦       content_sidebar.php
+¦   ¦       ¦       delete_content.php
+¦   ¦       ¦       edit_content.php
+¦   ¦       ¦       
+¦   ¦       +---department_management
+¦   ¦       ¦       add_department.php
+¦   ¦       ¦       delete_department.php
+¦   ¦       ¦       department.php
+¦   ¦       ¦       department_sidebar.php
+¦   ¦       ¦       edit_department.php
+¦   ¦       ¦       edit_department_form.php
+¦   ¦       ¦       
+¦   ¦       +---downloadable_files
+¦   ¦       ¦       delete_downloadable.php
+¦   ¦       ¦       downloadable.php
+¦   ¦       ¦       downloadable_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---gallery
+¦   ¦       ¦       gallery.php
+¦   ¦       ¦       
+¦   ¦       +---images
+¦   ¦       ¦   ¦   background.jpg
+¦   ¦       ¦   ¦   bg-input-focus.png
+¦   ¦       ¦   ¦   bg-input.png
+¦   ¦       ¦   ¦   index.jpg
+¦   ¦       ¦   ¦   index.png
+¦   ¦       ¦   ¦   index1.jpg
+¦   ¦       ¦   ¦   Logo.png
+¦   ¦       ¦   ¦   logo_chmsc.png
+¦   ¦       ¦   ¦   pattern.png
+¦   ¦       ¦   ¦   pixel-60fff.png
+¦   ¦       ¦   ¦   sprite.png
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---user_avatars
+¦   ¦       ¦           avatar.jpg
+¦   ¦       ¦           jelyn.jpg
+¦   ¦       ¦           jkev.jpg
+¦   ¦       ¦           jorge.jpg
+¦   ¦       ¦           mich.jpg
+¦   ¦       ¦           
+¦   ¦       +---online_classes
+¦   ¦       ¦       manage_recordings.php
+¦   ¦       ¦       online_classes.php
+¦   ¦       ¦       
+¦   ¦       +---school_year_management
+¦   ¦       ¦       add_school_year.php
+¦   ¦       ¦       delete_sy.php
+¦   ¦       ¦       school_year.php
+¦   ¦       ¦       school_year_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---student_management
+¦   ¦       ¦       add_student.php
+¦   ¦       ¦       add_students.php
+¦   ¦       ¦       add_student_action.php
+¦   ¦       ¦       add_subject.php
+¦   ¦       ¦       delete_student.php
+¦   ¦       ¦       edit_student.php
+¦   ¦       ¦       edit_students_form.php
+¦   ¦       ¦       reg_students.php
+¦   ¦       ¦       save_student.php
+¦   ¦       ¦       students.php
+¦   ¦       ¦       student_sidebar.php
+¦   ¦       ¦       student_table.php
+¦   ¦       ¦       student_table_reg.php
+¦   ¦       ¦       student_table_unreg.php
+¦   ¦       ¦       unreg_students.php
+¦   ¦       ¦       
+¦   ¦       +---subject_management
+¦   ¦       ¦       add_subject.php
+¦   ¦       ¦       delete_subject.php
+¦   ¦       ¦       edit_subject.php
+¦   ¦       ¦       subjects.php
+¦   ¦       ¦       subject_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---teacher_management
+¦   ¦       ¦       add_teacher.php
+¦   ¦       ¦       delete_teacher.php
+¦   ¦       ¦       edit_teacher.php
+¦   ¦       ¦       edit_teacher_form.php
+¦   ¦       ¦       teachers.php
+¦   ¦       ¦       teacher_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---uploads
+¦   ¦       ¦   ¦   NO-IMAGE-AVAILABLE.jpg
+¦   ¦       ¦   ¦   Screenshot 2025-02-26 204501.png
+¦   ¦       ¦   ¦   win_boot_screen_16_9_by_medi_dadu-d4s7dc1.gif
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---documents
+¦   ¦       ¦   ¦       1618_File_LCAT_Certificate_Soumya_Das.pdf
+¦   ¦       ¦   ¦       1956_File_tele.py
+¦   ¦       ¦   ¦       2106_File_capstone.sql
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---profile_pictures
+¦   ¦       ¦           baby.jpg
+¦   ¦       ¦           ca.jpg
+¦   ¦       ¦           cabrera.jpg
+¦   ¦       ¦           carel.jpg
+¦   ¦       ¦           
+¦   ¦       +---user_management
+¦   ¦       ¦       add_user.php
+¦   ¦       ¦       admin_user.php
+¦   ¦       ¦       delete_users.php
+¦   ¦       ¦       edit_user.php
+¦   ¦       ¦       edit_user_form.php
+¦   ¦       ¦       user_log.php
+¦   ¦       ¦       user_log_sidebar.php
+¦   ¦       ¦       
+¦   ¦       +---vendors
+¦   ¦           ¦   bootstrap-datepicker.js
+¦   ¦           ¦   chosen.jquery.min.js
+¦   ¦           ¦   
+¦   ¦           +---bootstrap-wysihtml5
+¦   ¦           ¦   ¦   .gitignore
+¦   ¦           ¦   ¦   component.json
+¦   ¦           ¦   ¦   Gemfile
+¦   ¦           ¦   ¦   Gemfile.lock
+¦   ¦           ¦   ¦   index.html
+¦   ¦           ¦   ¦   LICENCE
+¦   ¦           ¦   ¦   Rakefile
+¦   ¦           ¦   ¦   readme.textile
+¦   ¦           ¦   ¦   VERSION
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---.settings
+¦   ¦           ¦   ¦       .gitignore
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---dist
+¦   ¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.css
+¦   ¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.js
+¦   ¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.min.js
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---lib
+¦   ¦           ¦   ¦   +---css
+¦   ¦           ¦   ¦   ¦       bootstrap-responsive.css
+¦   ¦           ¦   ¦   ¦       bootstrap-responsive.min.css
+¦   ¦           ¦   ¦   ¦       bootstrap.css
+¦   ¦           ¦   ¦   ¦       bootstrap.min.css
+¦   ¦           ¦   ¦   ¦       prettify.css
+¦   ¦           ¦   ¦   ¦       wysiwyg-color.css
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---img
+¦   ¦           ¦   ¦   ¦       glyphicons-halflings-white.png
+¦   ¦           ¦   ¦   ¦       glyphicons-halflings.png
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---js
+¦   ¦           ¦   ¦           bootstrap-button.js
+¦   ¦           ¦   ¦           bootstrap.js
+¦   ¦           ¦   ¦           bootstrap.min.js
+¦   ¦           ¦   ¦           jquery-1.7.2.min.js
+¦   ¦           ¦   ¦           prettify.js
+¦   ¦           ¦   ¦           wysihtml5-0.3.0.js
+¦   ¦           ¦   ¦           wysihtml5-0.3.0.min.js
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---src
+¦   ¦           ¦   ¦   ¦   bootstrap-wysihtml5.css
+¦   ¦           ¦   ¦   ¦   bootstrap-wysihtml5.js
+¦   ¦           ¦   ¦   ¦   wysiwyg-color.css
+¦   ¦           ¦   ¦   ¦   
+¦   ¦           ¦   ¦   +---locales
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ar-AR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.bg-BG.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ca-CT.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.cs-CZ.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.da-DK.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.de-DE.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.el-GR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.es-AR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.es-ES.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.fr-FR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.hr-HR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.it-IT.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ja-JP.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ko-KR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.lt-LT.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.mo-MD.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.nb-NB.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.nl-NL.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.pl-PL.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.pt-BR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ru-RU.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.sk-SK.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.sv-SE.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.tr-TR.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.ua-UA.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.zh-CN.js
+¦   ¦           ¦   ¦           bootstrap-wysihtml5.zh-TW.js
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---test
+¦   ¦           ¦       ¦   browser_test.js
+¦   ¦           ¦       ¦   editor_test.js
+¦   ¦           ¦       ¦   incompatible_test.js
+¦   ¦           ¦       ¦   index.html
+¦   ¦           ¦       ¦   lib
+¦   ¦           ¦       ¦   README
+¦   ¦           ¦       ¦   undo_manager_test.js
+¦   ¦           ¦       ¦   
+¦   ¦           ¦       +---bootstrap_wysihtml5
+¦   ¦           ¦       ¦       parserRules_test.js
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---support
+¦   ¦           ¦               html_equal.js
+¦   ¦           ¦               
+¦   ¦           +---chosen
+¦   ¦           ¦       chosen-sprite.png
+¦   ¦           ¦       chosen-sprite@2x.png
+¦   ¦           ¦       chosen.jquery.min.js
+¦   ¦           ¦       chosen.min.css
+¦   ¦           ¦       
+¦   ¦           +---ckeditor
+¦   ¦           ¦   ¦   build-config.js
+¦   ¦           ¦   ¦   CHANGES.md
+¦   ¦           ¦   ¦   ckeditor.js
+¦   ¦           ¦   ¦   config.js
+¦   ¦           ¦   ¦   contents.css
+¦   ¦           ¦   ¦   LICENSE.md
+¦   ¦           ¦   ¦   README.md
+¦   ¦           ¦   ¦   styles.js
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---adapters
+¦   ¦           ¦   ¦       jquery.js
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---lang
+¦   ¦           ¦   ¦       af.js
+¦   ¦           ¦   ¦       ar.js
+¦   ¦           ¦   ¦       bg.js
+¦   ¦           ¦   ¦       bn.js
+¦   ¦           ¦   ¦       bs.js
+¦   ¦           ¦   ¦       ca.js
+¦   ¦           ¦   ¦       cs.js
+¦   ¦           ¦   ¦       cy.js
+¦   ¦           ¦   ¦       da.js
+¦   ¦           ¦   ¦       de.js
+¦   ¦           ¦   ¦       el.js
+¦   ¦           ¦   ¦       en-au.js
+¦   ¦           ¦   ¦       en-ca.js
+¦   ¦           ¦   ¦       en-gb.js
+¦   ¦           ¦   ¦       en.js
+¦   ¦           ¦   ¦       eo.js
+¦   ¦           ¦   ¦       es.js
+¦   ¦           ¦   ¦       et.js
+¦   ¦           ¦   ¦       eu.js
+¦   ¦           ¦   ¦       fa.js
+¦   ¦           ¦   ¦       fi.js
+¦   ¦           ¦   ¦       fo.js
+¦   ¦           ¦   ¦       fr-ca.js
+¦   ¦           ¦   ¦       fr.js
+¦   ¦           ¦   ¦       gl.js
+¦   ¦           ¦   ¦       gu.js
+¦   ¦           ¦   ¦       he.js
+¦   ¦           ¦   ¦       hi.js
+¦   ¦           ¦   ¦       hr.js
+¦   ¦           ¦   ¦       hu.js
+¦   ¦           ¦   ¦       id.js
+¦   ¦           ¦   ¦       is.js
+¦   ¦           ¦   ¦       it.js
+¦   ¦           ¦   ¦       ja.js
+¦   ¦           ¦   ¦       ka.js
+¦   ¦           ¦   ¦       km.js
+¦   ¦           ¦   ¦       ko.js
+¦   ¦           ¦   ¦       ku.js
+¦   ¦           ¦   ¦       lt.js
+¦   ¦           ¦   ¦       lv.js
+¦   ¦           ¦   ¦       mk.js
+¦   ¦           ¦   ¦       mn.js
+¦   ¦           ¦   ¦       ms.js
+¦   ¦           ¦   ¦       nb.js
+¦   ¦           ¦   ¦       nl.js
+¦   ¦           ¦   ¦       no.js
+¦   ¦           ¦   ¦       pl.js
+¦   ¦           ¦   ¦       pt-br.js
+¦   ¦           ¦   ¦       pt.js
+¦   ¦           ¦   ¦       ro.js
+¦   ¦           ¦   ¦       ru.js
+¦   ¦           ¦   ¦       si.js
+¦   ¦           ¦   ¦       sk.js
+¦   ¦           ¦   ¦       sl.js
+¦   ¦           ¦   ¦       sq.js
+¦   ¦           ¦   ¦       sr-latn.js
+¦   ¦           ¦   ¦       sr.js
+¦   ¦           ¦   ¦       sv.js
+¦   ¦           ¦   ¦       th.js
+¦   ¦           ¦   ¦       tr.js
+¦   ¦           ¦   ¦       ug.js
+¦   ¦           ¦   ¦       uk.js
+¦   ¦           ¦   ¦       vi.js
+¦   ¦           ¦   ¦       zh-cn.js
+¦   ¦           ¦   ¦       zh.js
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---plugins
+¦   ¦           ¦   ¦   ¦   icons.png
+¦   ¦           ¦   ¦   ¦   icons_hidpi.png
+¦   ¦           ¦   ¦   ¦   
+¦   ¦           ¦   ¦   +---a11yhelp
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦       ¦   a11yhelp.js
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---lang
+¦   ¦           ¦   ¦   ¦               ar.js
+¦   ¦           ¦   ¦   ¦               bg.js
+¦   ¦           ¦   ¦   ¦               ca.js
+¦   ¦           ¦   ¦   ¦               cs.js
+¦   ¦           ¦   ¦   ¦               cy.js
+¦   ¦           ¦   ¦   ¦               da.js
+¦   ¦           ¦   ¦   ¦               de.js
+¦   ¦           ¦   ¦   ¦               el.js
+¦   ¦           ¦   ¦   ¦               en.js
+¦   ¦           ¦   ¦   ¦               eo.js
+¦   ¦           ¦   ¦   ¦               es.js
+¦   ¦           ¦   ¦   ¦               et.js
+¦   ¦           ¦   ¦   ¦               fa.js
+¦   ¦           ¦   ¦   ¦               fi.js
+¦   ¦           ¦   ¦   ¦               fr-ca.js
+¦   ¦           ¦   ¦   ¦               fr.js
+¦   ¦           ¦   ¦   ¦               gl.js
+¦   ¦           ¦   ¦   ¦               gu.js
+¦   ¦           ¦   ¦   ¦               he.js
+¦   ¦           ¦   ¦   ¦               hi.js
+¦   ¦           ¦   ¦   ¦               hr.js
+¦   ¦           ¦   ¦   ¦               hu.js
+¦   ¦           ¦   ¦   ¦               id.js
+¦   ¦           ¦   ¦   ¦               it.js
+¦   ¦           ¦   ¦   ¦               ja.js
+¦   ¦           ¦   ¦   ¦               km.js
+¦   ¦           ¦   ¦   ¦               ku.js
+¦   ¦           ¦   ¦   ¦               lt.js
+¦   ¦           ¦   ¦   ¦               lv.js
+¦   ¦           ¦   ¦   ¦               mk.js
+¦   ¦           ¦   ¦   ¦               mn.js
+¦   ¦           ¦   ¦   ¦               nb.js
+¦   ¦           ¦   ¦   ¦               nl.js
+¦   ¦           ¦   ¦   ¦               no.js
+¦   ¦           ¦   ¦   ¦               pl.js
+¦   ¦           ¦   ¦   ¦               pt-br.js
+¦   ¦           ¦   ¦   ¦               pt.js
+¦   ¦           ¦   ¦   ¦               ro.js
+¦   ¦           ¦   ¦   ¦               ru.js
+¦   ¦           ¦   ¦   ¦               si.js
+¦   ¦           ¦   ¦   ¦               sk.js
+¦   ¦           ¦   ¦   ¦               sl.js
+¦   ¦           ¦   ¦   ¦               sq.js
+¦   ¦           ¦   ¦   ¦               sr-latn.js
+¦   ¦           ¦   ¦   ¦               sr.js
+¦   ¦           ¦   ¦   ¦               sv.js
+¦   ¦           ¦   ¦   ¦               th.js
+¦   ¦           ¦   ¦   ¦               tr.js
+¦   ¦           ¦   ¦   ¦               ug.js
+¦   ¦           ¦   ¦   ¦               uk.js
+¦   ¦           ¦   ¦   ¦               vi.js
+¦   ¦           ¦   ¦   ¦               zh-cn.js
+¦   ¦           ¦   ¦   ¦               _translationstatus.txt
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---about
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦       ¦   about.js
+¦   ¦           ¦   ¦   ¦       ¦   logo_ckeditor.png
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---hidpi
+¦   ¦           ¦   ¦   ¦               logo_ckeditor.png
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---clipboard
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           paste.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---colordialog
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           colordialog.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---dialog
+¦   ¦           ¦   ¦   ¦       dialogDefinition.js
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---div
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           div.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---fakeobjects
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           spacer.gif
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---find
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           find.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---flash
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       flash.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           placeholder.png
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---forms
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       button.js
+¦   ¦           ¦   ¦   ¦   ¦       checkbox.js
+¦   ¦           ¦   ¦   ¦   ¦       form.js
+¦   ¦           ¦   ¦   ¦   ¦       hiddenfield.js
+¦   ¦           ¦   ¦   ¦   ¦       radio.js
+¦   ¦           ¦   ¦   ¦   ¦       select.js
+¦   ¦           ¦   ¦   ¦   ¦       textarea.js
+¦   ¦           ¦   ¦   ¦   ¦       textfield.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           hiddenfield.gif
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---iframe
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       iframe.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           placeholder.png
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---image
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       image.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           noimage.png
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---link
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       anchor.js
+¦   ¦           ¦   ¦   ¦   ¦       link.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦       ¦   anchor.png
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---hidpi
+¦   ¦           ¦   ¦   ¦               anchor.png
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---liststyle
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           liststyle.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---magicline
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦       ¦   icon.png
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---hidpi
+¦   ¦           ¦   ¦   ¦               icon.png
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---pagebreak
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           pagebreak.gif
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---pastefromword
+¦   ¦           ¦   ¦   ¦   +---filter
+¦   ¦           ¦   ¦   ¦           default.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---preview
+¦   ¦           ¦   ¦   ¦       preview.html
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---scayt
+¦   ¦           ¦   ¦   ¦   ¦   LICENSE.md
+¦   ¦           ¦   ¦   ¦   ¦   README.md
+¦   ¦           ¦   ¦   ¦   ¦   
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           options.js
+¦   ¦           ¦   ¦   ¦           toolbar.css
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---showblocks
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           block_address.png
+¦   ¦           ¦   ¦   ¦           block_blockquote.png
+¦   ¦           ¦   ¦   ¦           block_div.png
+¦   ¦           ¦   ¦   ¦           block_h1.png
+¦   ¦           ¦   ¦   ¦           block_h2.png
+¦   ¦           ¦   ¦   ¦           block_h3.png
+¦   ¦           ¦   ¦   ¦           block_h4.png
+¦   ¦           ¦   ¦   ¦           block_h5.png
+¦   ¦           ¦   ¦   ¦           block_h6.png
+¦   ¦           ¦   ¦   ¦           block_p.png
+¦   ¦           ¦   ¦   ¦           block_pre.png
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---smiley
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       smiley.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---images
+¦   ¦           ¦   ¦   ¦           angel_smile.gif
+¦   ¦           ¦   ¦   ¦           angry_smile.gif
+¦   ¦           ¦   ¦   ¦           broken_heart.gif
+¦   ¦           ¦   ¦   ¦           confused_smile.gif
+¦   ¦           ¦   ¦   ¦           cry_smile.gif
+¦   ¦           ¦   ¦   ¦           devil_smile.gif
+¦   ¦           ¦   ¦   ¦           embaressed_smile.gif
+¦   ¦           ¦   ¦   ¦           embarrassed_smile.gif
+¦   ¦           ¦   ¦   ¦           envelope.gif
+¦   ¦           ¦   ¦   ¦           heart.gif
+¦   ¦           ¦   ¦   ¦           kiss.gif
+¦   ¦           ¦   ¦   ¦           lightbulb.gif
+¦   ¦           ¦   ¦   ¦           omg_smile.gif
+¦   ¦           ¦   ¦   ¦           regular_smile.gif
+¦   ¦           ¦   ¦   ¦           sad_smile.gif
+¦   ¦           ¦   ¦   ¦           shades_smile.gif
+¦   ¦           ¦   ¦   ¦           teeth_smile.gif
+¦   ¦           ¦   ¦   ¦           thumbs_down.gif
+¦   ¦           ¦   ¦   ¦           thumbs_up.gif
+¦   ¦           ¦   ¦   ¦           tongue_smile.gif
+¦   ¦           ¦   ¦   ¦           tounge_smile.gif
+¦   ¦           ¦   ¦   ¦           whatchutalkingabout_smile.gif
+¦   ¦           ¦   ¦   ¦           wink_smile.gif
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---specialchar
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦       ¦   specialchar.js
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---lang
+¦   ¦           ¦   ¦   ¦               ar.js
+¦   ¦           ¦   ¦   ¦               bg.js
+¦   ¦           ¦   ¦   ¦               ca.js
+¦   ¦           ¦   ¦   ¦               cs.js
+¦   ¦           ¦   ¦   ¦               cy.js
+¦   ¦           ¦   ¦   ¦               de.js
+¦   ¦           ¦   ¦   ¦               el.js
+¦   ¦           ¦   ¦   ¦               en.js
+¦   ¦           ¦   ¦   ¦               eo.js
+¦   ¦           ¦   ¦   ¦               es.js
+¦   ¦           ¦   ¦   ¦               et.js
+¦   ¦           ¦   ¦   ¦               fa.js
+¦   ¦           ¦   ¦   ¦               fi.js
+¦   ¦           ¦   ¦   ¦               fr-ca.js
+¦   ¦           ¦   ¦   ¦               fr.js
+¦   ¦           ¦   ¦   ¦               gl.js
+¦   ¦           ¦   ¦   ¦               he.js
+¦   ¦           ¦   ¦   ¦               hr.js
+¦   ¦           ¦   ¦   ¦               hu.js
+¦   ¦           ¦   ¦   ¦               id.js
+¦   ¦           ¦   ¦   ¦               it.js
+¦   ¦           ¦   ¦   ¦               ja.js
+¦   ¦           ¦   ¦   ¦               ku.js
+¦   ¦           ¦   ¦   ¦               lv.js
+¦   ¦           ¦   ¦   ¦               nb.js
+¦   ¦           ¦   ¦   ¦               nl.js
+¦   ¦           ¦   ¦   ¦               no.js
+¦   ¦           ¦   ¦   ¦               pl.js
+¦   ¦           ¦   ¦   ¦               pt-br.js
+¦   ¦           ¦   ¦   ¦               pt.js
+¦   ¦           ¦   ¦   ¦               ru.js
+¦   ¦           ¦   ¦   ¦               si.js
+¦   ¦           ¦   ¦   ¦               sk.js
+¦   ¦           ¦   ¦   ¦               sl.js
+¦   ¦           ¦   ¦   ¦               sq.js
+¦   ¦           ¦   ¦   ¦               sv.js
+¦   ¦           ¦   ¦   ¦               th.js
+¦   ¦           ¦   ¦   ¦               tr.js
+¦   ¦           ¦   ¦   ¦               ug.js
+¦   ¦           ¦   ¦   ¦               uk.js
+¦   ¦           ¦   ¦   ¦               vi.js
+¦   ¦           ¦   ¦   ¦               zh-cn.js
+¦   ¦           ¦   ¦   ¦               _translationstatus.txt
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---table
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           table.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---tabletools
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦           tableCell.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---templates
+¦   ¦           ¦   ¦   ¦   +---dialogs
+¦   ¦           ¦   ¦   ¦   ¦       templates.css
+¦   ¦           ¦   ¦   ¦   ¦       templates.js
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---templates
+¦   ¦           ¦   ¦   ¦       ¦   default.js
+¦   ¦           ¦   ¦   ¦       ¦   
+¦   ¦           ¦   ¦   ¦       +---images
+¦   ¦           ¦   ¦   ¦               template1.gif
+¦   ¦           ¦   ¦   ¦               template2.gif
+¦   ¦           ¦   ¦   ¦               template3.gif
+¦   ¦           ¦   ¦   ¦               
+¦   ¦           ¦   ¦   +---wsc
+¦   ¦           ¦   ¦       ¦   LICENSE.md
+¦   ¦           ¦   ¦       ¦   README.md
+¦   ¦           ¦   ¦       ¦   
+¦   ¦           ¦   ¦       +---dialogs
+¦   ¦           ¦   ¦               ciframe.html
+¦   ¦           ¦   ¦               tmp.html
+¦   ¦           ¦   ¦               tmpFrameset.html
+¦   ¦           ¦   ¦               wsc.css
+¦   ¦           ¦   ¦               wsc.js
+¦   ¦           ¦   ¦               wsc_ie.js
+¦   ¦           ¦   ¦               
+¦   ¦           ¦   +---samples
+¦   ¦           ¦   ¦   ¦   ajax.html
+¦   ¦           ¦   ¦   ¦   api.html
+¦   ¦           ¦   ¦   ¦   appendto.html
+¦   ¦           ¦   ¦   ¦   datafiltering.html
+¦   ¦           ¦   ¦   ¦   divreplace.html
+¦   ¦           ¦   ¦   ¦   index.html
+¦   ¦           ¦   ¦   ¦   inlineall.html
+¦   ¦           ¦   ¦   ¦   inlinebycode.html
+¦   ¦           ¦   ¦   ¦   inlinetextarea.html
+¦   ¦           ¦   ¦   ¦   jquery.html
+¦   ¦           ¦   ¦   ¦   readonly.html
+¦   ¦           ¦   ¦   ¦   replacebyclass.html
+¦   ¦           ¦   ¦   ¦   replacebycode.html
+¦   ¦           ¦   ¦   ¦   sample.css
+¦   ¦           ¦   ¦   ¦   sample.js
+¦   ¦           ¦   ¦   ¦   sample_posteddata.php
+¦   ¦           ¦   ¦   ¦   tabindex.html
+¦   ¦           ¦   ¦   ¦   uicolor.html
+¦   ¦           ¦   ¦   ¦   uilanguages.html
+¦   ¦           ¦   ¦   ¦   xhtmlstyle.html
+¦   ¦           ¦   ¦   ¦   
+¦   ¦           ¦   ¦   +---assets
+¦   ¦           ¦   ¦   ¦   ¦   posteddata.php
+¦   ¦           ¦   ¦   ¦   ¦   sample.css
+¦   ¦           ¦   ¦   ¦   ¦   sample.jpg
+¦   ¦           ¦   ¦   ¦   ¦   
+¦   ¦           ¦   ¦   ¦   +---inlineall
+¦   ¦           ¦   ¦   ¦   ¦       logo.png
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---outputxhtml
+¦   ¦           ¦   ¦   ¦   ¦       outputxhtml.css
+¦   ¦           ¦   ¦   ¦   ¦       
+¦   ¦           ¦   ¦   ¦   +---uilanguages
+¦   ¦           ¦   ¦   ¦           languages.js
+¦   ¦           ¦   ¦   ¦           
+¦   ¦           ¦   ¦   +---plugins
+¦   ¦           ¦   ¦       +---dialog
+¦   ¦           ¦   ¦       ¦   ¦   dialog.html
+¦   ¦           ¦   ¦       ¦   ¦   
+¦   ¦           ¦   ¦       ¦   +---assets
+¦   ¦           ¦   ¦       ¦           my_dialog.js
+¦   ¦           ¦   ¦       ¦           
+¦   ¦           ¦   ¦       +---enterkey
+¦   ¦           ¦   ¦       ¦       enterkey.html
+¦   ¦           ¦   ¦       ¦       
+¦   ¦           ¦   ¦       +---htmlwriter
+¦   ¦           ¦   ¦       ¦   ¦   outputforflash.html
+¦   ¦           ¦   ¦       ¦   ¦   outputhtml.html
+¦   ¦           ¦   ¦       ¦   ¦   
+¦   ¦           ¦   ¦       ¦   +---assets
+¦   ¦           ¦   ¦       ¦       +---outputforflash
+¦   ¦           ¦   ¦       ¦               outputforflash.fla
+¦   ¦           ¦   ¦       ¦               outputforflash.swf
+¦   ¦           ¦   ¦       ¦               swfobject.js
+¦   ¦           ¦   ¦       ¦               
+¦   ¦           ¦   ¦       +---magicline
+¦   ¦           ¦   ¦       ¦       magicline.html
+¦   ¦           ¦   ¦       ¦       
+¦   ¦           ¦   ¦       +---toolbar
+¦   ¦           ¦   ¦       ¦       toolbar.html
+¦   ¦           ¦   ¦       ¦       
+¦   ¦           ¦   ¦       +---wysiwygarea
+¦   ¦           ¦   ¦               fullpage.html
+¦   ¦           ¦   ¦               
+¦   ¦           ¦   +---skins
+¦   ¦           ¦       +---moono
+¦   ¦           ¦           ¦   dialog.css
+¦   ¦           ¦           ¦   dialog_ie.css
+¦   ¦           ¦           ¦   dialog_ie7.css
+¦   ¦           ¦           ¦   dialog_ie8.css
+¦   ¦           ¦           ¦   dialog_iequirks.css
+¦   ¦           ¦           ¦   dialog_opera.css
+¦   ¦           ¦           ¦   editor.css
+¦   ¦           ¦           ¦   editor_gecko.css
+¦   ¦           ¦           ¦   editor_ie.css
+¦   ¦           ¦           ¦   editor_ie7.css
+¦   ¦           ¦           ¦   editor_ie8.css
+¦   ¦           ¦           ¦   editor_iequirks.css
+¦   ¦           ¦           ¦   icons.png
+¦   ¦           ¦           ¦   icons_hidpi.png
+¦   ¦           ¦           ¦   readme.md
+¦   ¦           ¦           ¦   
+¦   ¦           ¦           +---images
+¦   ¦           ¦               ¦   arrow.png
+¦   ¦           ¦               ¦   close.png
+¦   ¦           ¦               ¦   lock-open.png
+¦   ¦           ¦               ¦   lock.png
+¦   ¦           ¦               ¦   refresh.png
+¦   ¦           ¦               ¦   
+¦   ¦           ¦               +---hidpi
+¦   ¦           ¦                       close.png
+¦   ¦           ¦                       lock-open.png
+¦   ¦           ¦                       lock.png
+¦   ¦           ¦                       refresh.png
+¦   ¦           ¦                       
+¦   ¦           +---datatables
+¦   ¦           ¦   +---css
+¦   ¦           ¦   ¦       demo_page.css
+¦   ¦           ¦   ¦       demo_table.css
+¦   ¦           ¦   ¦       demo_table_jui.css
+¦   ¦           ¦   ¦       jquery.dataTables.css
+¦   ¦           ¦   ¦       jquery.dataTables_themeroller.css
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---images
+¦   ¦           ¦   ¦       back_disabled.png
+¦   ¦           ¦   ¦       back_enabled.png
+¦   ¦           ¦   ¦       back_enabled_hover.png
+¦   ¦           ¦   ¦       favicon.ico
+¦   ¦           ¦   ¦       forward_disabled.png
+¦   ¦           ¦   ¦       forward_enabled.png
+¦   ¦           ¦   ¦       forward_enabled_hover.png
+¦   ¦           ¦   ¦       Sorting icons.psd
+¦   ¦           ¦   ¦       sort_asc.png
+¦   ¦           ¦   ¦       sort_asc_disabled.png
+¦   ¦           ¦   ¦       sort_both.png
+¦   ¦           ¦   ¦       sort_desc.png
+¦   ¦           ¦   ¦       sort_desc_disabled.png
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---js
+¦   ¦           ¦   ¦       jquery.dataTables.js
+¦   ¦           ¦   ¦       jquery.dataTables.min.js
+¦   ¦           ¦   ¦       jquery.js
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---src
+¦   ¦           ¦   ¦   ¦   DataTables.js
+¦   ¦           ¦   ¦   ¦   
+¦   ¦           ¦   ¦   +---api
+¦   ¦           ¦   ¦   ¦       api.internal.js
+¦   ¦           ¦   ¦   ¦       api.methods.js
+¦   ¦           ¦   ¦   ¦       api.static.js
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---core
+¦   ¦           ¦   ¦   ¦       core.ajax.js
+¦   ¦           ¦   ¦   ¦       core.columns.js
+¦   ¦           ¦   ¦   ¦       core.constructor.js
+¦   ¦           ¦   ¦   ¦       core.data.js
+¦   ¦           ¦   ¦   ¦       core.draw.js
+¦   ¦           ¦   ¦   ¦       core.filter.js
+¦   ¦           ¦   ¦   ¦       core.info.js
+¦   ¦           ¦   ¦   ¦       core.init.js
+¦   ¦           ¦   ¦   ¦       core.length.js
+¦   ¦           ¦   ¦   ¦       core.page.js
+¦   ¦           ¦   ¦   ¦       core.processing.js
+¦   ¦           ¦   ¦   ¦       core.scrolling.js
+¦   ¦           ¦   ¦   ¦       core.sizing.js
+¦   ¦           ¦   ¦   ¦       core.sort.js
+¦   ¦           ¦   ¦   ¦       core.state.js
+¦   ¦           ¦   ¦   ¦       core.support.js
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---ext
+¦   ¦           ¦   ¦   ¦       ext.classes.js
+¦   ¦           ¦   ¦   ¦       ext.paging.js
+¦   ¦           ¦   ¦   ¦       ext.sorting.js
+¦   ¦           ¦   ¦   ¦       ext.types.js
+¦   ¦           ¦   ¦   ¦       
+¦   ¦           ¦   ¦   +---model
+¦   ¦           ¦   ¦           model.column.js
+¦   ¦           ¦   ¦           model.defaults.columns.js
+¦   ¦           ¦   ¦           model.defaults.js
+¦   ¦           ¦   ¦           model.ext.js
+¦   ¦           ¦   ¦           model.row.js
+¦   ¦           ¦   ¦           model.search.js
+¦   ¦           ¦   ¦           model.settings.js
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---unit_testing
+¦   ¦           ¦       ¦   controller.js
+¦   ¦           ¦       ¦   controller.php
+¦   ¦           ¦       ¦   index.html
+¦   ¦           ¦       ¦   unit_test.js
+¦   ¦           ¦       ¦   
+¦   ¦           ¦       +---performance
+¦   ¦           ¦       ¦       draw.html
+¦   ¦           ¦       ¦       large.php
+¦   ¦           ¦       ¦       page.html
+¦   ¦           ¦       ¦       sort.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---templates
+¦   ¦           ¦       ¦       -complex_header.php
+¦   ¦           ¦       ¦       2512.php
+¦   ¦           ¦       ¦       6776.php
+¦   ¦           ¦       ¦       complex_header_2.php
+¦   ¦           ¦       ¦       deferred_table.php
+¦   ¦           ¦       ¦       dom_data.php
+¦   ¦           ¦       ¦       dom_data_th.php
+¦   ¦           ¦       ¦       dom_data_two_headers.php
+¦   ¦           ¦       ¦       dymanic_table.php
+¦   ¦           ¦       ¦       empty_table.php
+¦   ¦           ¦       ¦       html_table.php
+¦   ¦           ¦       ¦       js_data.php
+¦   ¦           ¦       ¦       js_data_mixed_types.php
+¦   ¦           ¦       ¦       two_tables.php
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---tests
+¦   ¦           ¦       ¦   +---1_dom
+¦   ¦           ¦       ¦           _zero_config.js
+¦   ¦           ¦       ¦           
+¦   ¦           ¦       +---tests_onhold
+¦   ¦           ¦           +---1_dom
+¦   ¦           ¦           ¦       -complex_header.js
+¦   ¦           ¦           ¦       -iDraw.js
+¦   ¦           ¦           ¦       2512.js
+¦   ¦           ¦           ¦       2530-2.js
+¦   ¦           ¦           ¦       2530.js
+¦   ¦           ¦           ¦       2569.js
+¦   ¦           ¦           ¦       2600.js
+¦   ¦           ¦           ¦       2608.js
+¦   ¦           ¦           ¦       2635.js
+¦   ¦           ¦           ¦       2746-stable-sort.js
+¦   ¦           ¦           ¦       2799.js
+¦   ¦           ¦           ¦       2840-restore-table-width.js
+¦   ¦           ¦           ¦       2914-state-save-sort.js
+¦   ¦           ¦           ¦       5396-fnUpdate-arrays-mData.js
+¦   ¦           ¦           ¦       5396-fnUpdate-arrays.js
+¦   ¦           ¦           ¦       5508-xscroll-zero-content.js
+¦   ¦           ¦           ¦       6776-scrolling-table-grows.js
+¦   ¦           ¦           ¦       aaSorting.js
+¦   ¦           ¦           ¦       aaSortingFixed.js
+¦   ¦           ¦           ¦       aoColumns.bSearchable.js
+¦   ¦           ¦           ¦       aoColumns.bSortable.js
+¦   ¦           ¦           ¦       aoColumns.bUseRendered.js
+¦   ¦           ¦           ¦       aoColumns.bVisible.js
+¦   ¦           ¦           ¦       aoColumns.bVisible2.js
+¦   ¦           ¦           ¦       aoColumns.fnRender.js
+¦   ¦           ¦           ¦       aoColumns.iDataSort.js
+¦   ¦           ¦           ¦       aoColumns.sClass.js
+¦   ¦           ¦           ¦       aoColumns.sName.js
+¦   ¦           ¦           ¦       aoColumns.sTitle.js
+¦   ¦           ¦           ¦       aoColumns.sWidth.js
+¦   ¦           ¦           ¦       aoSearchCols.js
+¦   ¦           ¦           ¦       asStripClasses.js
+¦   ¦           ¦           ¦       bAutoWidth.js
+¦   ¦           ¦           ¦       bFilter.js
+¦   ¦           ¦           ¦       bInfiniteScroll.js
+¦   ¦           ¦           ¦       bInfo.js
+¦   ¦           ¦           ¦       bJQueryUI.js
+¦   ¦           ¦           ¦       bLengthChange.js
+¦   ¦           ¦           ¦       bPaginate.js
+¦   ¦           ¦           ¦       bProcessing.js
+¦   ¦           ¦           ¦       bServerSide.js
+¦   ¦           ¦           ¦       bSort.js
+¦   ¦           ¦           ¦       bSortCellsTop.js
+¦   ¦           ¦           ¦       bSortClasses.js
+¦   ¦           ¦           ¦       fnCookieCallback.js
+¦   ¦           ¦           ¦       fnCreatedCell.js
+¦   ¦           ¦           ¦       fnCreatedRow.js
+¦   ¦           ¦           ¦       fnDeleteRow.js
+¦   ¦           ¦           ¦       fnDrawCallback.js
+¦   ¦           ¦           ¦       fnFilter.js
+¦   ¦           ¦           ¦       fnFooterCallback.js
+¦   ¦           ¦           ¦       fnHeaderCallback.js
+¦   ¦           ¦           ¦       fnInfoCallback.js
+¦   ¦           ¦           ¦       fnInitComplete.js
+¦   ¦           ¦           ¦       fnRowCallback.js
+¦   ¦           ¦           ¦       fnSetColumnVis.js
+¦   ¦           ¦           ¦       fnSetColumnVis2.js
+¦   ¦           ¦           ¦       html-autodetect-sort.js
+¦   ¦           ¦           ¦       iDisplayLength.js
+¦   ¦           ¦           ¦       oLanguage.oPaginate.js
+¦   ¦           ¦           ¦       oLanguage.sInfo.js
+¦   ¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦   ¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦   ¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦   ¦           ¦           ¦       oLanguage.sProcessing.js
+¦   ¦           ¦           ¦       oLanguage.sSearch.js
+¦   ¦           ¦           ¦       oLanguage.sUrl.js
+¦   ¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦   ¦           ¦           ¦       oSearch.js
+¦   ¦           ¦           ¦       sAjaxSource.js
+¦   ¦           ¦           ¦       sDom.js
+¦   ¦           ¦           ¦       sPaginationType.js
+¦   ¦           ¦           ¦       sScrollXY.js
+¦   ¦           ¦           ¦       th_in_body.js
+¦   ¦           ¦           ¦       _getDataFunctions.js
+¦   ¦           ¦           ¦       _setDataFunctions.js
+¦   ¦           ¦           ¦       _zero_config.js
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---2_js
+¦   ¦           ¦           ¦       39-nested-null.js
+¦   ¦           ¦           ¦       6872-default-content-missing-props.js
+¦   ¦           ¦           ¦       8549--string-sorting-nonstrings.js
+¦   ¦           ¦           ¦       aaSorting.js
+¦   ¦           ¦           ¦       aaSortingFixed.js
+¦   ¦           ¦           ¦       aoColumns.bSearchable.js
+¦   ¦           ¦           ¦       aoColumns.bSortable.js
+¦   ¦           ¦           ¦       aoColumns.bUseRendered.js
+¦   ¦           ¦           ¦       aoColumns.bVisible.js
+¦   ¦           ¦           ¦       aoColumns.fnRender.js
+¦   ¦           ¦           ¦       aoColumns.iDataSort.js
+¦   ¦           ¦           ¦       aoColumns.sClass.js
+¦   ¦           ¦           ¦       aoColumns.sName.js
+¦   ¦           ¦           ¦       aoColumns.sTitle.js
+¦   ¦           ¦           ¦       aoColumns.sWidth.js
+¦   ¦           ¦           ¦       aoSearchCols.js
+¦   ¦           ¦           ¦       asStripClasses.js
+¦   ¦           ¦           ¦       bAutoWidth.js
+¦   ¦           ¦           ¦       bFilter.js
+¦   ¦           ¦           ¦       bInfo.js
+¦   ¦           ¦           ¦       bLengthChange.js
+¦   ¦           ¦           ¦       bPaginate.js
+¦   ¦           ¦           ¦       bProcessing.js
+¦   ¦           ¦           ¦       bServerSide.js
+¦   ¦           ¦           ¦       bSort.js
+¦   ¦           ¦           ¦       bSortClasses.js
+¦   ¦           ¦           ¦       fnCreatedCell.js
+¦   ¦           ¦           ¦       fnCreatedRow.js
+¦   ¦           ¦           ¦       fnDrawCallback.js
+¦   ¦           ¦           ¦       fnFooterCallback.js
+¦   ¦           ¦           ¦       fnHeaderCallback.js
+¦   ¦           ¦           ¦       fnInitComplete.js
+¦   ¦           ¦           ¦       fnRowCallback.js
+¦   ¦           ¦           ¦       iDisplayLength.js
+¦   ¦           ¦           ¦       js_data_mixed_types.js
+¦   ¦           ¦           ¦       oLanguage.oPaginate.js
+¦   ¦           ¦           ¦       oLanguage.sInfo.js
+¦   ¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦   ¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦   ¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦   ¦           ¦           ¦       oLanguage.sProcessing.js
+¦   ¦           ¦           ¦       oLanguage.sSearch.js
+¦   ¦           ¦           ¦       oLanguage.sUrl.js
+¦   ¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦   ¦           ¦           ¦       oSearch.js
+¦   ¦           ¦           ¦       sAjaxSource.js
+¦   ¦           ¦           ¦       sDom.js
+¦   ¦           ¦           ¦       sPaginationType.js
+¦   ¦           ¦           ¦       _zero_config.js
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---3_ajax
+¦   ¦           ¦           ¦       aaSorting.js
+¦   ¦           ¦           ¦       aaSortingFixed.js
+¦   ¦           ¦           ¦       aoColumns.bSearchable.js
+¦   ¦           ¦           ¦       aoColumns.bSortable.js
+¦   ¦           ¦           ¦       aoColumns.bUseRendered.js
+¦   ¦           ¦           ¦       aoColumns.bVisible.js
+¦   ¦           ¦           ¦       aoColumns.fnRender.js
+¦   ¦           ¦           ¦       aoColumns.iDataSort.js
+¦   ¦           ¦           ¦       aoColumns.sClass.js
+¦   ¦           ¦           ¦       aoColumns.sName.js
+¦   ¦           ¦           ¦       aoColumns.sTitle.js
+¦   ¦           ¦           ¦       aoColumns.sWidth.js
+¦   ¦           ¦           ¦       aoSearchCols.js
+¦   ¦           ¦           ¦       asStripClasses.js
+¦   ¦           ¦           ¦       bAutoWidth.js
+¦   ¦           ¦           ¦       bFilter.js
+¦   ¦           ¦           ¦       bInfo.js
+¦   ¦           ¦           ¦       bLengthChange.js
+¦   ¦           ¦           ¦       bPaginate.js
+¦   ¦           ¦           ¦       bProcessing.js
+¦   ¦           ¦           ¦       bServerSide.js
+¦   ¦           ¦           ¦       bSort.js
+¦   ¦           ¦           ¦       bSortClasses.js
+¦   ¦           ¦           ¦       fnCreatedCell.js
+¦   ¦           ¦           ¦       fnCreatedRow.js
+¦   ¦           ¦           ¦       fnDrawCallback.js
+¦   ¦           ¦           ¦       fnHeaderCallback.js
+¦   ¦           ¦           ¦       fnInitComplete.js
+¦   ¦           ¦           ¦       fnRowCallback.js
+¦   ¦           ¦           ¦       fnServerData.js
+¦   ¦           ¦           ¦       iDisplayLength.js
+¦   ¦           ¦           ¦       oLanguage.oPaginate.js
+¦   ¦           ¦           ¦       oLanguage.sInfo.js
+¦   ¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦   ¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦   ¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦   ¦           ¦           ¦       oLanguage.sLoadingRecords.js
+¦   ¦           ¦           ¦       oLanguage.sProcessing.js
+¦   ¦           ¦           ¦       oLanguage.sSearch.js
+¦   ¦           ¦           ¦       oLanguage.sUrl.js
+¦   ¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦   ¦           ¦           ¦       oSearch.js
+¦   ¦           ¦           ¦       sAjaxDataProp.js
+¦   ¦           ¦           ¦       sAjaxDataProp2.js
+¦   ¦           ¦           ¦       sAjaxSource.js
+¦   ¦           ¦           ¦       sDom.js
+¦   ¦           ¦           ¦       sPaginationType.js
+¦   ¦           ¦           ¦       _zero_config.js
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---4_server-side
+¦   ¦           ¦           ¦       -iDraw.js
+¦   ¦           ¦           ¦       2440.js
+¦   ¦           ¦           ¦       2569.js
+¦   ¦           ¦           ¦       2600.js
+¦   ¦           ¦           ¦       aaSorting.js
+¦   ¦           ¦           ¦       aaSortingFixed.js
+¦   ¦           ¦           ¦       aoColumns.bSearchable.js
+¦   ¦           ¦           ¦       aoColumns.bSortable.js
+¦   ¦           ¦           ¦       aoColumns.bUseRendered.js
+¦   ¦           ¦           ¦       aoColumns.bVisible.js
+¦   ¦           ¦           ¦       aoColumns.fnRender.js
+¦   ¦           ¦           ¦       aoColumns.sClass.js
+¦   ¦           ¦           ¦       aoColumns.sName.js
+¦   ¦           ¦           ¦       aoColumns.sTitle.js
+¦   ¦           ¦           ¦       aoColumns.sWidth.js
+¦   ¦           ¦           ¦       aoSearchCols.js
+¦   ¦           ¦           ¦       asStripClasses.js
+¦   ¦           ¦           ¦       bAutoWidth.js
+¦   ¦           ¦           ¦       bFilter.js
+¦   ¦           ¦           ¦       bInfiniteScroll.js
+¦   ¦           ¦           ¦       bInfo.js
+¦   ¦           ¦           ¦       bLengthChange.js
+¦   ¦           ¦           ¦       bPaginate.js
+¦   ¦           ¦           ¦       bProcessing.js
+¦   ¦           ¦           ¦       bServerSide.js
+¦   ¦           ¦           ¦       bSort.js
+¦   ¦           ¦           ¦       bSortClasses.js
+¦   ¦           ¦           ¦       fnCreatedCell.js
+¦   ¦           ¦           ¦       fnCreatedRow.js
+¦   ¦           ¦           ¦       fnDrawCallback.js
+¦   ¦           ¦           ¦       fnHeaderCallback.js
+¦   ¦           ¦           ¦       fnInitComplete.js
+¦   ¦           ¦           ¦       fnRowCallback.js
+¦   ¦           ¦           ¦       iDeferLoading.js
+¦   ¦           ¦           ¦       iDisplayLength.js
+¦   ¦           ¦           ¦       oLanguage.oPaginate.js
+¦   ¦           ¦           ¦       oLanguage.sInfo.js
+¦   ¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦   ¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦   ¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦   ¦           ¦           ¦       oLanguage.sProcessing.js
+¦   ¦           ¦           ¦       oLanguage.sSearch.js
+¦   ¦           ¦           ¦       oLanguage.sUrl.js
+¦   ¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦   ¦           ¦           ¦       oSearch.js
+¦   ¦           ¦           ¦       sAjaxDataProp.js
+¦   ¦           ¦           ¦       sAjaxSource.js
+¦   ¦           ¦           ¦       sDom.js
+¦   ¦           ¦           ¦       sPaginationType.js
+¦   ¦           ¦           ¦       _zero_config.js
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---5_ajax_objects
+¦   ¦           ¦           ¦       aaSorting.js
+¦   ¦           ¦           ¦       aaSortingFixed.js
+¦   ¦           ¦           ¦       aoColumns.bSearchable.js
+¦   ¦           ¦           ¦       aoColumns.bSortable.js
+¦   ¦           ¦           ¦       aoColumns.bUseRendered.js
+¦   ¦           ¦           ¦       aoColumns.bVisible.js
+¦   ¦           ¦           ¦       aoColumns.fnRender.js
+¦   ¦           ¦           ¦       aoColumns.iDataSort.js
+¦   ¦           ¦           ¦       aoColumns.sClass.js
+¦   ¦           ¦           ¦       aoColumns.sName.js
+¦   ¦           ¦           ¦       aoColumns.sTitle.js
+¦   ¦           ¦           ¦       aoColumns.sWidth.js
+¦   ¦           ¦           ¦       aoSearchCols.js
+¦   ¦           ¦           ¦       asStripClasses.js
+¦   ¦           ¦           ¦       bAutoWidth.js
+¦   ¦           ¦           ¦       bFilter.js
+¦   ¦           ¦           ¦       bInfo.js
+¦   ¦           ¦           ¦       bLengthChange.js
+¦   ¦           ¦           ¦       bPaginate.js
+¦   ¦           ¦           ¦       bProcessing.js
+¦   ¦           ¦           ¦       bServerSide.js
+¦   ¦           ¦           ¦       bSort.js
+¦   ¦           ¦           ¦       bSortClasses.js
+¦   ¦           ¦           ¦       fnDrawCallback.js
+¦   ¦           ¦           ¦       fnHeaderCallback.js
+¦   ¦           ¦           ¦       fnInitComplete.js
+¦   ¦           ¦           ¦       fnRowCallback.js
+¦   ¦           ¦           ¦       fnServerData.js
+¦   ¦           ¦           ¦       iDisplayLength.js
+¦   ¦           ¦           ¦       oLanguage.oPaginate.js
+¦   ¦           ¦           ¦       oLanguage.sInfo.js
+¦   ¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦   ¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦   ¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦   ¦           ¦           ¦       oLanguage.sProcessing.js
+¦   ¦           ¦           ¦       oLanguage.sSearch.js
+¦   ¦           ¦           ¦       oLanguage.sUrl.js
+¦   ¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦   ¦           ¦           ¦       oSearch.js
+¦   ¦           ¦           ¦       sAjaxSource.js
+¦   ¦           ¦           ¦       sDom.js
+¦   ¦           ¦           ¦       sPaginationType.js
+¦   ¦           ¦           ¦       _zero_config.js
+¦   ¦           ¦           ¦       _zero_config_arrays_subobjects.js
+¦   ¦           ¦           ¦       _zero_config_deep.js
+¦   ¦           ¦           ¦       _zero_config_mDataProp.js
+¦   ¦           ¦           ¦       _zero_config_null_source.js
+¦   ¦           ¦           ¦       _zero_config_objects.js
+¦   ¦           ¦           ¦       _zero_config_objects_subarrays.js
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---6_delayed_rendering
+¦   ¦           ¦                   aaSorting.js
+¦   ¦           ¦                   aaSortingFixed.js
+¦   ¦           ¦                   aoColumns.bSearchable.js
+¦   ¦           ¦                   aoColumns.bSortable.js
+¦   ¦           ¦                   aoColumns.bUseRendered.js
+¦   ¦           ¦                   aoColumns.bVisible.js
+¦   ¦           ¦                   aoColumns.fnRender.js
+¦   ¦           ¦                   aoColumns.iDataSort.js
+¦   ¦           ¦                   aoColumns.sClass.js
+¦   ¦           ¦                   aoColumns.sName.js
+¦   ¦           ¦                   aoColumns.sTitle.js
+¦   ¦           ¦                   aoColumns.sWidth.js
+¦   ¦           ¦                   aoSearchCols.js
+¦   ¦           ¦                   asStripClasses.js
+¦   ¦           ¦                   bAutoWidth.js
+¦   ¦           ¦                   bFilter.js
+¦   ¦           ¦                   bInfo.js
+¦   ¦           ¦                   bLengthChange.js
+¦   ¦           ¦                   bPaginate.js
+¦   ¦           ¦                   bProcessing.js
+¦   ¦           ¦                   bServerSide.js
+¦   ¦           ¦                   bSort.js
+¦   ¦           ¦                   bSortClasses.js
+¦   ¦           ¦                   fnDrawCallback.js
+¦   ¦           ¦                   fnHeaderCallback.js
+¦   ¦           ¦                   fnInitComplete.js
+¦   ¦           ¦                   fnRowCallback.js
+¦   ¦           ¦                   fnServerData.js
+¦   ¦           ¦                   iDisplayLength.js
+¦   ¦           ¦                   oLanguage.oPaginate.js
+¦   ¦           ¦                   oLanguage.sInfo.js
+¦   ¦           ¦                   oLanguage.sInfoEmpty.js
+¦   ¦           ¦                   oLanguage.sInfoPostFix.js
+¦   ¦           ¦                   oLanguage.sLengthMenu.js
+¦   ¦           ¦                   oLanguage.sProcessing.js
+¦   ¦           ¦                   oLanguage.sSearch.js
+¦   ¦           ¦                   oLanguage.sUrl.js
+¦   ¦           ¦                   oLanguage.sZeroRecords.js
+¦   ¦           ¦                   oSearch.js
+¦   ¦           ¦                   sAjaxDataProp.js
+¦   ¦           ¦                   sAjaxDataProp2.js
+¦   ¦           ¦                   sAjaxSource.js
+¦   ¦           ¦                   sDom.js
+¦   ¦           ¦                   sPaginationType.js
+¦   ¦           ¦                   _zero_config.js
+¦   ¦           ¦                   
+¦   ¦           +---datepicker
+¦   ¦           ¦       datepicker.css
+¦   ¦           ¦       
+¦   ¦           +---easypiechart
+¦   ¦           ¦   ¦   jquery.easy-pie-chart.css
+¦   ¦           ¦   ¦   jquery.easy-pie-chart.js
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---examples
+¦   ¦           ¦           excanvas.js
+¦   ¦           ¦           index.html
+¦   ¦           ¦           style.css
+¦   ¦           ¦           
+¦   ¦           +---flot
+¦   ¦           ¦   ¦   .gitignore
+¦   ¦           ¦   ¦   .travis.yml
+¦   ¦           ¦   ¦   API.md
+¦   ¦           ¦   ¦   component.json
+¦   ¦           ¦   ¦   CONTRIBUTING.md
+¦   ¦           ¦   ¦   excanvas.js
+¦   ¦           ¦   ¦   excanvas.min.js
+¦   ¦           ¦   ¦   FAQ.md
+¦   ¦           ¦   ¦   flot.jquery.json
+¦   ¦           ¦   ¦   jquery.colorhelpers.js
+¦   ¦           ¦   ¦   jquery.flot.canvas.js
+¦   ¦           ¦   ¦   jquery.flot.categories.js
+¦   ¦           ¦   ¦   jquery.flot.crosshair.js
+¦   ¦           ¦   ¦   jquery.flot.errorbars.js
+¦   ¦           ¦   ¦   jquery.flot.fillbetween.js
+¦   ¦           ¦   ¦   jquery.flot.image.js
+¦   ¦           ¦   ¦   jquery.flot.js
+¦   ¦           ¦   ¦   jquery.flot.navigate.js
+¦   ¦           ¦   ¦   jquery.flot.pie.js
+¦   ¦           ¦   ¦   jquery.flot.resize.js
+¦   ¦           ¦   ¦   jquery.flot.selection.js
+¦   ¦           ¦   ¦   jquery.flot.stack.js
+¦   ¦           ¦   ¦   jquery.flot.symbol.js
+¦   ¦           ¦   ¦   jquery.flot.threshold.js
+¦   ¦           ¦   ¦   jquery.flot.time.js
+¦   ¦           ¦   ¦   jquery.js
+¦   ¦           ¦   ¦   LICENSE.txt
+¦   ¦           ¦   ¦   Makefile
+¦   ¦           ¦   ¦   NEWS.md
+¦   ¦           ¦   ¦   package.json
+¦   ¦           ¦   ¦   PLUGINS.md
+¦   ¦           ¦   ¦   README.md
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---examples
+¦   ¦           ¦       ¦   background.png
+¦   ¦           ¦       ¦   basic-canvas.html
+¦   ¦           ¦       ¦   examples.css
+¦   ¦           ¦       ¦   index.html
+¦   ¦           ¦       ¦   
+¦   ¦           ¦       +---ajax
+¦   ¦           ¦       ¦       data-eu-gdp-growth-1.json
+¦   ¦           ¦       ¦       data-eu-gdp-growth-2.json
+¦   ¦           ¦       ¦       data-eu-gdp-growth-3.json
+¦   ¦           ¦       ¦       data-eu-gdp-growth-4.json
+¦   ¦           ¦       ¦       data-eu-gdp-growth-5.json
+¦   ¦           ¦       ¦       data-eu-gdp-growth.json
+¦   ¦           ¦       ¦       data-japan-gdp-growth.json
+¦   ¦           ¦       ¦       data-usa-gdp-growth.json
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---annotating
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---axes-interacting
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---axes-multiple
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---axes-time
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---axes-time-zones
+¦   ¦           ¦       ¦   ¦   date.js
+¦   ¦           ¦       ¦   ¦   index.html
+¦   ¦           ¦       ¦   ¦   
+¦   ¦           ¦       ¦   +---tz
+¦   ¦           ¦       ¦           africa
+¦   ¦           ¦       ¦           antarctica
+¦   ¦           ¦       ¦           asia
+¦   ¦           ¦       ¦           australasia
+¦   ¦           ¦       ¦           backward
+¦   ¦           ¦       ¦           etcetera
+¦   ¦           ¦       ¦           europe
+¦   ¦           ¦       ¦           factory
+¦   ¦           ¦       ¦           iso3166.tab
+¦   ¦           ¦       ¦           leapseconds
+¦   ¦           ¦       ¦           northamerica
+¦   ¦           ¦       ¦           pacificnew
+¦   ¦           ¦       ¦           solar87
+¦   ¦           ¦       ¦           solar88
+¦   ¦           ¦       ¦           solar89
+¦   ¦           ¦       ¦           southamerica
+¦   ¦           ¦       ¦           systemv
+¦   ¦           ¦       ¦           yearistype.sh
+¦   ¦           ¦       ¦           zone.tab
+¦   ¦           ¦       ¦           
+¦   ¦           ¦       +---basic-options
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---basic-usage
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---canvas
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---categories
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---image
+¦   ¦           ¦       ¦       hs-2004-27-a-large-web.jpg
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---interacting
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---navigate
+¦   ¦           ¦       ¦       arrow-down.gif
+¦   ¦           ¦       ¦       arrow-left.gif
+¦   ¦           ¦       ¦       arrow-right.gif
+¦   ¦           ¦       ¦       arrow-up.gif
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---percentiles
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---realtime
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---resize
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---selection
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---series-errorbars
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---series-pie
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---series-toggle
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---series-types
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---shared
+¦   ¦           ¦       ¦   +---jquery-ui
+¦   ¦           ¦       ¦           jquery-ui.min.css
+¦   ¦           ¦       ¦           
+¦   ¦           ¦       +---stacking
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---symbols
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---threshold
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---tracking
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---visitors
+¦   ¦           ¦       ¦       index.html
+¦   ¦           ¦       ¦       
+¦   ¦           ¦       +---zooming
+¦   ¦           ¦               index.html
+¦   ¦           ¦               
+¦   ¦           +---fullcalendar
+¦   ¦           ¦       fullcalendar.css
+¦   ¦           ¦       fullcalendar.js
+¦   ¦           ¦       fullcalendar.min.js
+¦   ¦           ¦       fullcalendar.print.css
+¦   ¦           ¦       gcal.js
+¦   ¦           ¦       
+¦   ¦           +---jGrowl
+¦   ¦           ¦   ¦   .gitignore
+¦   ¦           ¦   ¦   jgrowl.jquery.json
+¦   ¦           ¦   ¦   jquery.jgrowl.css
+¦   ¦           ¦   ¦   jquery.jgrowl.js
+¦   ¦           ¦   ¦   LICENSE
+¦   ¦           ¦   ¦   README.md
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---examples
+¦   ¦           ¦           iphone.png
+¦   ¦           ¦           jgrowl-pool.html
+¦   ¦           ¦           jgrowl.html
+¦   ¦           ¦           multiple-containers.html
+¦   ¦           ¦           sideways.html
+¦   ¦           ¦           smoke.png
+¦   ¦           ¦           
+¦   ¦           +---jquery
+¦   ¦           ¦       jquery-1.9.1.js
+¦   ¦           ¦       jquery-1.9.1.min.js
+¦   ¦           ¦       jquery-ui-1.10.3.js
+¦   ¦           ¦       jquery.knob.js
+¦   ¦           ¦       jquery.uniform.min.js
+¦   ¦           ¦       
+¦   ¦           +---modernizr
+¦   ¦           ¦       modernizr-2.6.2-respond-1.1.0.min.js
+¦   ¦           ¦       
+¦   ¦           +---morris
+¦   ¦           ¦       morris.css
+¦   ¦           ¦       morris.js
+¦   ¦           ¦       morris.min.js
+¦   ¦           ¦       
+¦   ¦           +---raphael
+¦   ¦           ¦       raphael-min.js
+¦   ¦           ¦       
+¦   ¦           +---tinymce
+¦   ¦           ¦   ¦   changelog.txt
+¦   ¦           ¦   ¦   LICENSE.TXT
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---js
+¦   ¦           ¦       +---tinymce
+¦   ¦           ¦           ¦   jquery.tinymce.min.js
+¦   ¦           ¦           ¦   license.txt
+¦   ¦           ¦           ¦   tinymce.min.js
+¦   ¦           ¦           ¦   
+¦   ¦           ¦           +---langs
+¦   ¦           ¦           ¦       readme.md
+¦   ¦           ¦           ¦       
+¦   ¦           ¦           +---plugins
+¦   ¦           ¦           ¦   +---advlist
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---anchor
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---autolink
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---autoresize
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---autosave
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---bbcode
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---charmap
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---code
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---compat3x
+¦   ¦           ¦           ¦   ¦       editable_selects.js
+¦   ¦           ¦           ¦   ¦       form_utils.js
+¦   ¦           ¦           ¦   ¦       mctabs.js
+¦   ¦           ¦           ¦   ¦       tiny_mce_popup.js
+¦   ¦           ¦           ¦   ¦       validate.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---contextmenu
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---directionality
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---emoticons
+¦   ¦           ¦           ¦   ¦   ¦   plugin.min.js
+¦   ¦           ¦           ¦   ¦   ¦   
+¦   ¦           ¦           ¦   ¦   +---img
+¦   ¦           ¦           ¦   ¦           smiley-cool.gif
+¦   ¦           ¦           ¦   ¦           smiley-cry.gif
+¦   ¦           ¦           ¦   ¦           smiley-embarassed.gif
+¦   ¦           ¦           ¦   ¦           smiley-foot-in-mouth.gif
+¦   ¦           ¦           ¦   ¦           smiley-frown.gif
+¦   ¦           ¦           ¦   ¦           smiley-innocent.gif
+¦   ¦           ¦           ¦   ¦           smiley-kiss.gif
+¦   ¦           ¦           ¦   ¦           smiley-laughing.gif
+¦   ¦           ¦           ¦   ¦           smiley-money-mouth.gif
+¦   ¦           ¦           ¦   ¦           smiley-sealed.gif
+¦   ¦           ¦           ¦   ¦           smiley-smile.gif
+¦   ¦           ¦           ¦   ¦           smiley-surprised.gif
+¦   ¦           ¦           ¦   ¦           smiley-tongue-out.gif
+¦   ¦           ¦           ¦   ¦           smiley-undecided.gif
+¦   ¦           ¦           ¦   ¦           smiley-wink.gif
+¦   ¦           ¦           ¦   ¦           smiley-yell.gif
+¦   ¦           ¦           ¦   ¦           
+¦   ¦           ¦           ¦   +---example
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---example_dependency
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---fullpage
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---fullscreen
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---hr
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---image
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---importcss
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---insertdatetime
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---layer
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---legacyoutput
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---link
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---lists
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---media
+¦   ¦           ¦           ¦   ¦       moxieplayer.swf
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---nonbreaking
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---noneditable
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---pagebreak
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---paste
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---preview
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---print
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---save
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---searchreplace
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---spellchecker
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---tabfocus
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---table
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---template
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---textcolor
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---visualblocks
+¦   ¦           ¦           ¦   ¦   ¦   plugin.min.js
+¦   ¦           ¦           ¦   ¦   ¦   
+¦   ¦           ¦           ¦   ¦   +---css
+¦   ¦           ¦           ¦   ¦           visualblocks.css
+¦   ¦           ¦           ¦   ¦           
+¦   ¦           ¦           ¦   +---visualchars
+¦   ¦           ¦           ¦   ¦       plugin.min.js
+¦   ¦           ¦           ¦   ¦       
+¦   ¦           ¦           ¦   +---wordcount
+¦   ¦           ¦           ¦           plugin.min.js
+¦   ¦           ¦           ¦           
+¦   ¦           ¦           +---skins
+¦   ¦           ¦           ¦   +---lightgray
+¦   ¦           ¦           ¦       ¦   content.inline.min.css
+¦   ¦           ¦           ¦       ¦   content.min.css
+¦   ¦           ¦           ¦       ¦   skin.ie7.min.css
+¦   ¦           ¦           ¦       ¦   skin.min.css
+¦   ¦           ¦           ¦       ¦   
+¦   ¦           ¦           ¦       +---fonts
+¦   ¦           ¦           ¦       ¦       icomoon-small.eot
+¦   ¦           ¦           ¦       ¦       icomoon-small.svg
+¦   ¦           ¦           ¦       ¦       icomoon-small.ttf
+¦   ¦           ¦           ¦       ¦       icomoon-small.woff
+¦   ¦           ¦           ¦       ¦       icomoon.eot
+¦   ¦           ¦           ¦       ¦       icomoon.svg
+¦   ¦           ¦           ¦       ¦       icomoon.ttf
+¦   ¦           ¦           ¦       ¦       icomoon.woff
+¦   ¦           ¦           ¦       ¦       readme.md
+¦   ¦           ¦           ¦       ¦       
+¦   ¦           ¦           ¦       +---img
+¦   ¦           ¦           ¦               anchor.gif
+¦   ¦           ¦           ¦               loader.gif
+¦   ¦           ¦           ¦               object.gif
+¦   ¦           ¦           ¦               trans.gif
+¦   ¦           ¦           ¦               wline.gif
+¦   ¦           ¦           ¦               
+¦   ¦           ¦           +---themes
+¦   ¦           ¦               +---modern
+¦   ¦           ¦                       theme.min.js
+¦   ¦           ¦                       
+¦   ¦           +---uniform
+¦   ¦           ¦       uniform.default.css
+¦   ¦           ¦       
+¦   ¦           +---wizard
+¦   ¦           ¦       jquery.bootstrap.wizard.js
+¦   ¦           ¦       jquery.bootstrap.wizard.min.js
+¦   ¦           ¦       
+¦   ¦           +---wysiwyg
+¦   ¦                   bootstrap-wysihtml5.css
+¦   ¦                   bootstrap-wysihtml5.js
+¦   ¦                   wysihtml5-0.3.0.js
+¦   ¦                   
+¦   +---recordings
+¦   ¦   ¦   class_52_2025-10-08_07-00-14.webm
+¦   ¦   ¦   class_53_2025-10-08_08-31-43.webm
+¦   ¦   ¦   recording_20251003_183535.webm
+¦   ¦   ¦   recording_20251003_184419.webm
+¦   ¦   ¦   recording_20251003_190830.webm
+¦   ¦   ¦   recording_20251003_192637.webm
+¦   ¦   ¦   recording_20251003_200346.webm
+¦   ¦   ¦   recording_20251004_065002.webm
+¦   ¦   ¦   recording_20251004_065020.webm
+¦   ¦   ¦   recording_20251004_065136.webm
+¦   ¦   ¦   
+¦   ¦   +---final
+¦   ¦   +---tmp
+¦   +---student_announcements
+¦   ¦       annoucement_link_student.php
+¦   ¦       announcements_student.php
+¦   ¦       
+¦   +---student_assignments
+¦   ¦       assignment_link_student.php
+¦   ¦       assignment_student.php
+¦   ¦       assign_save.php
+¦   ¦       submit_assignment.php
+¦   ¦       submit_assignment_sidebar.php
+¦   ¦       upload_assignment.php
+¦   ¦       
+¦   +---student_avatar
+¦   ¦       avatar_modal_student.php
+¦   ¦       student_avatar.php
+¦   ¦       
+¦   +---student_backpack
+¦   ¦       backpack.php
+¦   ¦       backpack_sidebar.php
+¦   ¦       copy_file.php
+¦   ¦       copy_file_student.php
+¦   ¦       copy_to_backpack_modal.php
+¦   ¦       delete_backpack.php
+¦   ¦       modal_backpack_delete.php
+¦   ¦       
+¦   +---student_calendar
+¦   ¦       calendar_script.php
+¦   ¦       calendar_student_sidebar.php
+¦   ¦       
+¦   +---student_classes
+¦   ¦       add_previous_class.php
+¦   ¦       class_calendar_student.php
+¦   ¦       class_sidebar.php
+¦   ¦       join_class.php
+¦   ¦       my_classes.php
+¦   ¦       my_classmates.php
+¦   ¦       my_classmates_link.php
+¦   ¦       previous_class.php
+¦   ¦       search_class.php
+¦   ¦       search_other_class.php
+¦   ¦       
+¦   +---student_downloadables
+¦   ¦       downloadable_link_student.php
+¦   ¦       downloadable_sidebar_student.php
+¦   ¦       downloadable_student.php
+¦   ¦       
+¦   +---student_messages
+¦   ¦       create_message_student.php
+¦   ¦       create_message_student_student.php
+¦   ¦       read.php
+¦   ¦       remove_inbox_message.php
+¦   ¦       remove_inbox_message_modal.php
+¦   ¦       remove_sent_message.php
+¦   ¦       remove_sent_message_modal.php
+¦   ¦       reply.php
+¦   ¦       reply_inbox_message_modal_student.php
+¦   ¦       send_message_student.php
+¦   ¦       send_message_student_to_student.php
+¦   ¦       sent_message_student.php
+¦   ¦       student_message.php
+¦   ¦       student_message_sidebar.php
+¦   ¦       student_message_student.php
+¦   ¦       
+¦   +---student_notifications
+¦   ¦       student_notification.php
+¦   ¦       student_notification_sidebar.php
+¦   ¦       student_online.php
+¦   ¦       student_online_sidebar.php
+¦   ¦       
+¦   +---student_print
+¦   ¦       print_student.php
+¦   ¦       
+¦   +---student_progress
+¦   ¦       progress.php
+¦   ¦       progress_link_student.php
+¦   ¦       
+¦   +---student_quizzes
+¦   ¦       quiz_link.php
+¦   ¦       student_quiz_link.php
+¦   ¦       student_quiz_list.php
+¦   ¦       take_test.php
+¦   ¦       
+¦   +---student_subject_overview
+¦   ¦       subject_overview_link_student.php
+¦   ¦       subject_overview_student.php
+¦   ¦       
+¦   +---teacher_announcements
+¦   ¦       add_announcement.php
+¦   ¦       add_announcement_save.php
+¦   ¦       annoucement_link.php
+¦   ¦       announcements.php
+¦   ¦       remove_announcements.php
+¦   ¦       remove_announcements_modal.php
+¦   ¦       teacher_add_announcement_sidebar.php
+¦   ¦       
+¦   +---teacher_assignments
+¦   ¦       add_assignment.php
+¦   ¦       add_assignment_save.php
+¦   ¦       assignment.php
+¦   ¦       assignment_link.php
+¦   ¦       delete_assigment_modal.php
+¦   ¦       delete_assignment.php
+¦   ¦       save_grade.php
+¦   ¦       submit_assignment_table.php
+¦   ¦       teacher_add_assignment_sidebar.php
+¦   ¦       view_submit_assignment.php
+¦   ¦       
+¦   +---teacher_avatar
+¦   ¦       avatar_modal.php
+¦   ¦       teacher_avatar.php
+¦   ¦       
+¦   +---teacher_backpack
+¦   ¦       backpack_sidebar_teacher.php
+¦   ¦       copy_to_backpack_modal.php
+¦   ¦       delete_backpack_teacher.php
+¦   ¦       modal_backpack_delete.php
+¦   ¦       teacher_backack.php
+¦   ¦       
+¦   +---teacher_calendar
+¦   ¦       add_class_event.php
+¦   ¦       calendar_of_events.php
+¦   ¦       class_calendar.php
+¦   ¦       class_calendar_script.php
+¦   ¦       delete_class_event.php
+¦   ¦       
+¦   +---teacher_class_management
+¦   ¦       classes_teacher_slidebar.php
+¦   ¦       create_class.php
+¦   ¦       create_class_save.php
+¦   ¦       delete_class.php
+¦   ¦       delete_class_modal.php
+¦   ¦       edit_class.php
+¦   ¦       my_students.php
+¦   ¦       my_students_breadcrums.php
+¦   ¦       online_teacher_slidebar.php
+¦   ¦       remove_student.php
+¦   ¦       remove_student_modal.php
+¦   ¦       teacher_class.php
+¦   ¦       update_class.php
+¦   ¦       
+¦   +---teacher_downloadables
+¦   ¦       add_downloadable.php
+¦   ¦       add_downloadable_save.php
+¦   ¦       delete_download_modal.php
+¦   ¦       delete_file.php
+¦   ¦       downloadable.php
+¦   ¦       downloadable_link.php
+¦   ¦       teacher_add_downloadable_sidebar.php
+¦   ¦       
+¦   +---teacher_messages
+¦   ¦       create_message.php
+¦   ¦       create_message_teacher.php
+¦   ¦       read.php
+¦   ¦       read_teacher.php
+¦   ¦       remove_inbox_message.php
+¦   ¦       remove_inbox_message_modal.php
+¦   ¦       remove_sent_message.php
+¦   ¦       remove_sent_message_modal.php
+¦   ¦       reply.php
+¦   ¦       reply_inbox_message_modal.php
+¦   ¦       send_message.php
+¦   ¦       send_message_teacher_to_student.php
+¦   ¦       sent_message.php
+¦   ¦       teacher_message.php
+¦   ¦       teacher_message_sidebar.php
+¦   ¦       teacher_message_teacher.php
+¦   ¦       
+¦   +---teacher_notifications
+¦   ¦       notification_teacher.php
+¦   ¦       teacher_notification_sidebar.php
+¦   ¦       teacher_online.php
+¦   ¦       teacher_online_sidebar.php
+¦   ¦       
+¦   +---teacher_online_classes
+¦   ¦       class_attendance.php
+¦   ¦       class_recordings.php
+¦   ¦       delete_recordings.php
+¦   ¦       download_recording.php
+¦   ¦       merge_chunks.php
+¦   ¦       play_recording.php
+¦   ¦       save_recording.php
+¦   ¦       timer.ajax.php
+¦   ¦       upload_chunk.php
+¦   ¦       
+¦   +---teacher_quizzes
+¦   ¦       add_question.php
+¦   ¦       add_quiz.php
+¦   ¦       add_quiz_to_class.php
+¦   ¦       class_quiz.php
+¦   ¦       delete_class_quiz.php
+¦   ¦       delete_quiz.php
+¦   ¦       delete_quiz_question.php
+¦   ¦       edit_question.php
+¦   ¦       edit_quiz.php
+¦   ¦       modal_delete_class_quiz.php
+¦   ¦       modal_delete_quiz.php
+¦   ¦       modal_delete_quiz_question.php
+¦   ¦       quiz_question.php
+¦   ¦       quiz_sidebar_teacher.php
+¦   ¦       teacher_quiz.php
+¦   ¦       
+¦   +---teacher_sharing
+¦   ¦       delete_shared.php
+¦   ¦       modal_share_delete.php
+¦   ¦       share_sidebar_teacher.php
+¦   ¦       teacher_share.php
+¦   ¦       
+¦   +---teacher_subject_overview
+¦   ¦       add_subject_overview.php
+¦   ¦       edit_subject_overview.php
+¦   ¦       subject_overview.php
+¦   ¦       subject_overview_link.php
+¦   ¦       
+¦   +---utilities
+¦           count.php
+¦           dbConnector.php
+¦           move_to_school_year.php
+¦           notification_system.php
+¦           web_control.php
+¦           
++---lms_system
+¦   ¦   about.php
+¦   ¦   campuses.php
+¦   ¦   check_database.php
+¦   ¦   dbcon.php
+¦   ¦   developers.php
+¦   ¦   directories.php
+¦   ¦   google0eaee4f9fabfdea8.html
+¦   ¦   index.php
+¦   ¦   link.php
+¦   ¦   link_about.php
+¦   ¦   login.php
+¦   ¦   logout.php
+¦   ¦   README.md
+¦   ¦   script.php
+¦   ¦   session.php
+¦   ¦   sitemap.xml
+¦   ¦   title_index.php
+¦   ¦   web_control.php
+¦   ¦   
+¦   +---admin
+¦       ¦   admin_sidebar.php
+¦       ¦   dashboard.php
+¦       ¦   dbcon.php
+¦       ¦   de_activate.php
+¦       ¦   footer.php
+¦       ¦   header.php
+¦       ¦   index.php
+¦       ¦   login.php
+¦       ¦   logout.php
+¦       ¦   modal_delete.php
+¦       ¦   navbar.php
+¦       ¦   navbar_index.php
+¦       ¦   script.php
+¦       ¦   session.php
+¦       ¦   
+¦       +---activity_logs
+¦       ¦       activity_log.php
+¦       ¦       activity_log_sidebar.php
+¦       ¦       
+¦       +---assets
+¦       ¦   +---css
+¦       ¦   ¦       DT_bootstrap.css
+¦       ¦   ¦       jquery-ui-1.10.1.custom.css
+¦       ¦   ¦       online_classes.css
+¦       ¦   ¦       style.css
+¦       ¦   ¦       styles.css
+¦       ¦   ¦       
+¦       ¦   +---fonts
+¦       ¦   ¦       TR
+¦       ¦   ¦       TR Century Gothic.ttf
+¦       ¦   ¦       
+¦       ¦   +---js
+¦       ¦           DT_bootstrap.js
+¦       ¦           jquery-ui-1.10.1.custom.js
+¦       ¦           jquery.hoverdir.js
+¦       ¦           scripts.js
+¦       ¦           
+¦       +---assignment_management
+¦       ¦       assignment.php
+¦       ¦       assignment_sidebar.php
+¦       ¦       
+¦       +---bootstrap
+¦       ¦   +---css
+¦       ¦   ¦       bootstrap-responsive.css
+¦       ¦   ¦       bootstrap-responsive.min.css
+¦       ¦   ¦       bootstrap.css
+¦       ¦   ¦       bootstrap.min.css
+¦       ¦   ¦       font-awesome.css
+¦       ¦   ¦       hetilica.ttf
+¦       ¦   ¦       index
+¦       ¦   ¦       index - Copy.css
+¦       ¦   ¦       index.css
+¦       ¦   ¦       Molot.otf
+¦       ¦   ¦       my_style.css
+¦       ¦   ¦       print.css
+¦       ¦   ¦       ProximaNova-Light.otf
+¦       ¦   ¦       TR
+¦       ¦   ¦       TR Century Gothic.ttf
+¦       ¦   ¦       
+¦       ¦   +---font
+¦       ¦   ¦       fontawesome-webfont.eot
+¦       ¦   ¦       fontawesome-webfont.svg
+¦       ¦   ¦       fontawesome-webfont.ttf
+¦       ¦   ¦       fontawesome-webfont.woff
+¦       ¦   ¦       FontAwesome.otf
+¦       ¦   ¦       
+¦       ¦   +---img
+¦       ¦   ¦       glyphicons-halflings-white.png
+¦       ¦   ¦       glyphicons-halflings.png
+¦       ¦   ¦       
+¦       ¦   +---js
+¦       ¦           bootstrap.js
+¦       ¦           bootstrap.min.js
+¦       ¦           
+¦       +---calendar_events
+¦       ¦       add_class_event.php
+¦       ¦       admin_calendar_script.php
+¦       ¦       calendar.php
+¦       ¦       calendar_of_events.php
+¦       ¦       delete_event.php
+¦       ¦       sidebar_calendar.php
+¦       ¦       
+¦       +---class_management
+¦       ¦       add_class.php
+¦       ¦       class.php
+¦       ¦       class_sidebar.php
+¦       ¦       delete_class.php
+¦       ¦       edit_class.php
+¦       ¦       edit_class_form.php
+¦       ¦       
+¦       +---content_management
+¦       ¦       add_content.php
+¦       ¦       content.php
+¦       ¦       content_sidebar.php
+¦       ¦       delete_content.php
+¦       ¦       edit_content.php
+¦       ¦       
+¦       +---department_management
+¦       ¦       add_department.php
+¦       ¦       delete_department.php
+¦       ¦       department.php
+¦       ¦       department_sidebar.php
+¦       ¦       edit_department.php
+¦       ¦       edit_department_form.php
+¦       ¦       
+¦       +---downloadable_files
+¦       ¦       delete_downloadable.php
+¦       ¦       downloadable.php
+¦       ¦       downloadable_sidebar.php
+¦       ¦       
+¦       +---gallery
+¦       ¦       gallery.php
+¦       ¦       
+¦       +---images
+¦       ¦   ¦   background.jpg
+¦       ¦   ¦   bg-input-focus.png
+¦       ¦   ¦   bg-input.png
+¦       ¦   ¦   index.jpg
+¦       ¦   ¦   index.png
+¦       ¦   ¦   index1.jpg
+¦       ¦   ¦   Logo.png
+¦       ¦   ¦   logo_chmsc.png
+¦       ¦   ¦   pattern.png
+¦       ¦   ¦   pixel-60fff.png
+¦       ¦   ¦   sprite.png
+¦       ¦   ¦   
+¦       ¦   +---user_avatars
+¦       ¦           avatar.jpg
+¦       ¦           jelyn.jpg
+¦       ¦           jkev.jpg
+¦       ¦           jorge.jpg
+¦       ¦           mich.jpg
+¦       ¦           
+¦       +---online_classes
+¦       ¦       manage_recordings.php
+¦       ¦       online_classes.php
+¦       ¦       
+¦       +---school_year_management
+¦       ¦       add_school_year.php
+¦       ¦       delete_sy.php
+¦       ¦       school_year.php
+¦       ¦       school_year_sidebar.php
+¦       ¦       
+¦       +---student_management
+¦       ¦       add_student.php
+¦       ¦       add_students.php
+¦       ¦       add_student_action.php
+¦       ¦       add_subject.php
+¦       ¦       delete_student.php
+¦       ¦       edit_student.php
+¦       ¦       edit_students_form.php
+¦       ¦       reg_students.php
+¦       ¦       save_student.php
+¦       ¦       students.php
+¦       ¦       student_sidebar.php
+¦       ¦       student_table.php
+¦       ¦       student_table_reg.php
+¦       ¦       student_table_unreg.php
+¦       ¦       unreg_students.php
+¦       ¦       
+¦       +---subject_management
+¦       ¦       add_subject.php
+¦       ¦       delete_subject.php
+¦       ¦       edit_subject.php
+¦       ¦       subjects.php
+¦       ¦       subject_sidebar.php
+¦       ¦       
+¦       +---teacher_management
+¦       ¦       add_teacher.php
+¦       ¦       delete_teacher.php
+¦       ¦       edit_teacher.php
+¦       ¦       edit_teacher_form.php
+¦       ¦       teachers.php
+¦       ¦       teacher_sidebar.php
+¦       ¦       
+¦       +---uploads
+¦       ¦   ¦   NO-IMAGE-AVAILABLE.jpg
+¦       ¦   ¦   Screenshot 2025-02-26 204501.png
+¦       ¦   ¦   win_boot_screen_16_9_by_medi_dadu-d4s7dc1.gif
+¦       ¦   ¦   
+¦       ¦   +---documents
+¦       ¦   ¦       1618_File_LCAT_Certificate_Soumya_Das.pdf
+¦       ¦   ¦       1956_File_tele.py
+¦       ¦   ¦       2106_File_capstone.sql
+¦       ¦   ¦       
+¦       ¦   +---profile_pictures
+¦       ¦           baby.jpg
+¦       ¦           ca.jpg
+¦       ¦           cabrera.jpg
+¦       ¦           carel.jpg
+¦       ¦           
+¦       +---user_management
+¦       ¦       add_user.php
+¦       ¦       admin_user.php
+¦       ¦       delete_users.php
+¦       ¦       edit_user.php
+¦       ¦       edit_user_form.php
+¦       ¦       user_log.php
+¦       ¦       user_log_sidebar.php
+¦       ¦       
+¦       +---vendors
+¦           ¦   bootstrap-datepicker.js
+¦           ¦   chosen.jquery.min.js
+¦           ¦   
+¦           +---bootstrap-wysihtml5
+¦           ¦   ¦   .gitignore
+¦           ¦   ¦   component.json
+¦           ¦   ¦   Gemfile
+¦           ¦   ¦   Gemfile.lock
+¦           ¦   ¦   index.html
+¦           ¦   ¦   LICENCE
+¦           ¦   ¦   Rakefile
+¦           ¦   ¦   readme.textile
+¦           ¦   ¦   VERSION
+¦           ¦   ¦   
+¦           ¦   +---.settings
+¦           ¦   ¦       .gitignore
+¦           ¦   ¦       
+¦           ¦   +---dist
+¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.css
+¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.js
+¦           ¦   ¦       bootstrap-wysihtml5-0.0.2.min.js
+¦           ¦   ¦       
+¦           ¦   +---lib
+¦           ¦   ¦   +---css
+¦           ¦   ¦   ¦       bootstrap-responsive.css
+¦           ¦   ¦   ¦       bootstrap-responsive.min.css
+¦           ¦   ¦   ¦       bootstrap.css
+¦           ¦   ¦   ¦       bootstrap.min.css
+¦           ¦   ¦   ¦       prettify.css
+¦           ¦   ¦   ¦       wysiwyg-color.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---img
+¦           ¦   ¦   ¦       glyphicons-halflings-white.png
+¦           ¦   ¦   ¦       glyphicons-halflings.png
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---js
+¦           ¦   ¦           bootstrap-button.js
+¦           ¦   ¦           bootstrap.js
+¦           ¦   ¦           bootstrap.min.js
+¦           ¦   ¦           jquery-1.7.2.min.js
+¦           ¦   ¦           prettify.js
+¦           ¦   ¦           wysihtml5-0.3.0.js
+¦           ¦   ¦           wysihtml5-0.3.0.min.js
+¦           ¦   ¦           
+¦           ¦   +---src
+¦           ¦   ¦   ¦   bootstrap-wysihtml5.css
+¦           ¦   ¦   ¦   bootstrap-wysihtml5.js
+¦           ¦   ¦   ¦   wysiwyg-color.css
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---locales
+¦           ¦   ¦           bootstrap-wysihtml5.ar-AR.js
+¦           ¦   ¦           bootstrap-wysihtml5.bg-BG.js
+¦           ¦   ¦           bootstrap-wysihtml5.ca-CT.js
+¦           ¦   ¦           bootstrap-wysihtml5.cs-CZ.js
+¦           ¦   ¦           bootstrap-wysihtml5.da-DK.js
+¦           ¦   ¦           bootstrap-wysihtml5.de-DE.js
+¦           ¦   ¦           bootstrap-wysihtml5.el-GR.js
+¦           ¦   ¦           bootstrap-wysihtml5.es-AR.js
+¦           ¦   ¦           bootstrap-wysihtml5.es-ES.js
+¦           ¦   ¦           bootstrap-wysihtml5.fr-FR.js
+¦           ¦   ¦           bootstrap-wysihtml5.hr-HR.js
+¦           ¦   ¦           bootstrap-wysihtml5.it-IT.js
+¦           ¦   ¦           bootstrap-wysihtml5.ja-JP.js
+¦           ¦   ¦           bootstrap-wysihtml5.ko-KR.js
+¦           ¦   ¦           bootstrap-wysihtml5.lt-LT.js
+¦           ¦   ¦           bootstrap-wysihtml5.mo-MD.js
+¦           ¦   ¦           bootstrap-wysihtml5.nb-NB.js
+¦           ¦   ¦           bootstrap-wysihtml5.nl-NL.js
+¦           ¦   ¦           bootstrap-wysihtml5.pl-PL.js
+¦           ¦   ¦           bootstrap-wysihtml5.pt-BR.js
+¦           ¦   ¦           bootstrap-wysihtml5.ru-RU.js
+¦           ¦   ¦           bootstrap-wysihtml5.sk-SK.js
+¦           ¦   ¦           bootstrap-wysihtml5.sv-SE.js
+¦           ¦   ¦           bootstrap-wysihtml5.tr-TR.js
+¦           ¦   ¦           bootstrap-wysihtml5.ua-UA.js
+¦           ¦   ¦           bootstrap-wysihtml5.zh-CN.js
+¦           ¦   ¦           bootstrap-wysihtml5.zh-TW.js
+¦           ¦   ¦           
+¦           ¦   +---test
+¦           ¦       ¦   browser_test.js
+¦           ¦       ¦   editor_test.js
+¦           ¦       ¦   incompatible_test.js
+¦           ¦       ¦   index.html
+¦           ¦       ¦   lib
+¦           ¦       ¦   README
+¦           ¦       ¦   undo_manager_test.js
+¦           ¦       ¦   
+¦           ¦       +---bootstrap_wysihtml5
+¦           ¦       ¦       parserRules_test.js
+¦           ¦       ¦       
+¦           ¦       +---support
+¦           ¦               html_equal.js
+¦           ¦               
+¦           +---chosen
+¦           ¦       chosen-sprite.png
+¦           ¦       chosen-sprite@2x.png
+¦           ¦       chosen.jquery.min.js
+¦           ¦       chosen.min.css
+¦           ¦       
+¦           +---ckeditor
+¦           ¦   ¦   build-config.js
+¦           ¦   ¦   CHANGES.md
+¦           ¦   ¦   ckeditor.js
+¦           ¦   ¦   config.js
+¦           ¦   ¦   contents.css
+¦           ¦   ¦   LICENSE.md
+¦           ¦   ¦   README.md
+¦           ¦   ¦   styles.js
+¦           ¦   ¦   
+¦           ¦   +---adapters
+¦           ¦   ¦       jquery.js
+¦           ¦   ¦       
+¦           ¦   +---lang
+¦           ¦   ¦       af.js
+¦           ¦   ¦       ar.js
+¦           ¦   ¦       bg.js
+¦           ¦   ¦       bn.js
+¦           ¦   ¦       bs.js
+¦           ¦   ¦       ca.js
+¦           ¦   ¦       cs.js
+¦           ¦   ¦       cy.js
+¦           ¦   ¦       da.js
+¦           ¦   ¦       de.js
+¦           ¦   ¦       el.js
+¦           ¦   ¦       en-au.js
+¦           ¦   ¦       en-ca.js
+¦           ¦   ¦       en-gb.js
+¦           ¦   ¦       en.js
+¦           ¦   ¦       eo.js
+¦           ¦   ¦       es.js
+¦           ¦   ¦       et.js
+¦           ¦   ¦       eu.js
+¦           ¦   ¦       fa.js
+¦           ¦   ¦       fi.js
+¦           ¦   ¦       fo.js
+¦           ¦   ¦       fr-ca.js
+¦           ¦   ¦       fr.js
+¦           ¦   ¦       gl.js
+¦           ¦   ¦       gu.js
+¦           ¦   ¦       he.js
+¦           ¦   ¦       hi.js
+¦           ¦   ¦       hr.js
+¦           ¦   ¦       hu.js
+¦           ¦   ¦       id.js
+¦           ¦   ¦       is.js
+¦           ¦   ¦       it.js
+¦           ¦   ¦       ja.js
+¦           ¦   ¦       ka.js
+¦           ¦   ¦       km.js
+¦           ¦   ¦       ko.js
+¦           ¦   ¦       ku.js
+¦           ¦   ¦       lt.js
+¦           ¦   ¦       lv.js
+¦           ¦   ¦       mk.js
+¦           ¦   ¦       mn.js
+¦           ¦   ¦       ms.js
+¦           ¦   ¦       nb.js
+¦           ¦   ¦       nl.js
+¦           ¦   ¦       no.js
+¦           ¦   ¦       pl.js
+¦           ¦   ¦       pt-br.js
+¦           ¦   ¦       pt.js
+¦           ¦   ¦       ro.js
+¦           ¦   ¦       ru.js
+¦           ¦   ¦       si.js
+¦           ¦   ¦       sk.js
+¦           ¦   ¦       sl.js
+¦           ¦   ¦       sq.js
+¦           ¦   ¦       sr-latn.js
+¦           ¦   ¦       sr.js
+¦           ¦   ¦       sv.js
+¦           ¦   ¦       th.js
+¦           ¦   ¦       tr.js
+¦           ¦   ¦       ug.js
+¦           ¦   ¦       uk.js
+¦           ¦   ¦       vi.js
+¦           ¦   ¦       zh-cn.js
+¦           ¦   ¦       zh.js
+¦           ¦   ¦       
+¦           ¦   +---plugins
+¦           ¦   ¦   ¦   icons.png
+¦           ¦   ¦   ¦   icons_hidpi.png
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---a11yhelp
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦       ¦   a11yhelp.js
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---lang
+¦           ¦   ¦   ¦               ar.js
+¦           ¦   ¦   ¦               bg.js
+¦           ¦   ¦   ¦               ca.js
+¦           ¦   ¦   ¦               cs.js
+¦           ¦   ¦   ¦               cy.js
+¦           ¦   ¦   ¦               da.js
+¦           ¦   ¦   ¦               de.js
+¦           ¦   ¦   ¦               el.js
+¦           ¦   ¦   ¦               en.js
+¦           ¦   ¦   ¦               eo.js
+¦           ¦   ¦   ¦               es.js
+¦           ¦   ¦   ¦               et.js
+¦           ¦   ¦   ¦               fa.js
+¦           ¦   ¦   ¦               fi.js
+¦           ¦   ¦   ¦               fr-ca.js
+¦           ¦   ¦   ¦               fr.js
+¦           ¦   ¦   ¦               gl.js
+¦           ¦   ¦   ¦               gu.js
+¦           ¦   ¦   ¦               he.js
+¦           ¦   ¦   ¦               hi.js
+¦           ¦   ¦   ¦               hr.js
+¦           ¦   ¦   ¦               hu.js
+¦           ¦   ¦   ¦               id.js
+¦           ¦   ¦   ¦               it.js
+¦           ¦   ¦   ¦               ja.js
+¦           ¦   ¦   ¦               km.js
+¦           ¦   ¦   ¦               ku.js
+¦           ¦   ¦   ¦               lt.js
+¦           ¦   ¦   ¦               lv.js
+¦           ¦   ¦   ¦               mk.js
+¦           ¦   ¦   ¦               mn.js
+¦           ¦   ¦   ¦               nb.js
+¦           ¦   ¦   ¦               nl.js
+¦           ¦   ¦   ¦               no.js
+¦           ¦   ¦   ¦               pl.js
+¦           ¦   ¦   ¦               pt-br.js
+¦           ¦   ¦   ¦               pt.js
+¦           ¦   ¦   ¦               ro.js
+¦           ¦   ¦   ¦               ru.js
+¦           ¦   ¦   ¦               si.js
+¦           ¦   ¦   ¦               sk.js
+¦           ¦   ¦   ¦               sl.js
+¦           ¦   ¦   ¦               sq.js
+¦           ¦   ¦   ¦               sr-latn.js
+¦           ¦   ¦   ¦               sr.js
+¦           ¦   ¦   ¦               sv.js
+¦           ¦   ¦   ¦               th.js
+¦           ¦   ¦   ¦               tr.js
+¦           ¦   ¦   ¦               ug.js
+¦           ¦   ¦   ¦               uk.js
+¦           ¦   ¦   ¦               vi.js
+¦           ¦   ¦   ¦               zh-cn.js
+¦           ¦   ¦   ¦               _translationstatus.txt
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---about
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦       ¦   about.js
+¦           ¦   ¦   ¦       ¦   logo_ckeditor.png
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---hidpi
+¦           ¦   ¦   ¦               logo_ckeditor.png
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---clipboard
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           paste.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---colordialog
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           colordialog.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---dialog
+¦           ¦   ¦   ¦       dialogDefinition.js
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---div
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           div.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---fakeobjects
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           spacer.gif
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---find
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           find.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---flash
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       flash.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           placeholder.png
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---forms
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       button.js
+¦           ¦   ¦   ¦   ¦       checkbox.js
+¦           ¦   ¦   ¦   ¦       form.js
+¦           ¦   ¦   ¦   ¦       hiddenfield.js
+¦           ¦   ¦   ¦   ¦       radio.js
+¦           ¦   ¦   ¦   ¦       select.js
+¦           ¦   ¦   ¦   ¦       textarea.js
+¦           ¦   ¦   ¦   ¦       textfield.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           hiddenfield.gif
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---iframe
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       iframe.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           placeholder.png
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---image
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       image.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           noimage.png
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---link
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       anchor.js
+¦           ¦   ¦   ¦   ¦       link.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦       ¦   anchor.png
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---hidpi
+¦           ¦   ¦   ¦               anchor.png
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---liststyle
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           liststyle.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---magicline
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦       ¦   icon.png
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---hidpi
+¦           ¦   ¦   ¦               icon.png
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---pagebreak
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           pagebreak.gif
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---pastefromword
+¦           ¦   ¦   ¦   +---filter
+¦           ¦   ¦   ¦           default.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---preview
+¦           ¦   ¦   ¦       preview.html
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---scayt
+¦           ¦   ¦   ¦   ¦   LICENSE.md
+¦           ¦   ¦   ¦   ¦   README.md
+¦           ¦   ¦   ¦   ¦   
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           options.js
+¦           ¦   ¦   ¦           toolbar.css
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---showblocks
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           block_address.png
+¦           ¦   ¦   ¦           block_blockquote.png
+¦           ¦   ¦   ¦           block_div.png
+¦           ¦   ¦   ¦           block_h1.png
+¦           ¦   ¦   ¦           block_h2.png
+¦           ¦   ¦   ¦           block_h3.png
+¦           ¦   ¦   ¦           block_h4.png
+¦           ¦   ¦   ¦           block_h5.png
+¦           ¦   ¦   ¦           block_h6.png
+¦           ¦   ¦   ¦           block_p.png
+¦           ¦   ¦   ¦           block_pre.png
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---smiley
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       smiley.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---images
+¦           ¦   ¦   ¦           angel_smile.gif
+¦           ¦   ¦   ¦           angry_smile.gif
+¦           ¦   ¦   ¦           broken_heart.gif
+¦           ¦   ¦   ¦           confused_smile.gif
+¦           ¦   ¦   ¦           cry_smile.gif
+¦           ¦   ¦   ¦           devil_smile.gif
+¦           ¦   ¦   ¦           embaressed_smile.gif
+¦           ¦   ¦   ¦           embarrassed_smile.gif
+¦           ¦   ¦   ¦           envelope.gif
+¦           ¦   ¦   ¦           heart.gif
+¦           ¦   ¦   ¦           kiss.gif
+¦           ¦   ¦   ¦           lightbulb.gif
+¦           ¦   ¦   ¦           omg_smile.gif
+¦           ¦   ¦   ¦           regular_smile.gif
+¦           ¦   ¦   ¦           sad_smile.gif
+¦           ¦   ¦   ¦           shades_smile.gif
+¦           ¦   ¦   ¦           teeth_smile.gif
+¦           ¦   ¦   ¦           thumbs_down.gif
+¦           ¦   ¦   ¦           thumbs_up.gif
+¦           ¦   ¦   ¦           tongue_smile.gif
+¦           ¦   ¦   ¦           tounge_smile.gif
+¦           ¦   ¦   ¦           whatchutalkingabout_smile.gif
+¦           ¦   ¦   ¦           wink_smile.gif
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---specialchar
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦       ¦   specialchar.js
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---lang
+¦           ¦   ¦   ¦               ar.js
+¦           ¦   ¦   ¦               bg.js
+¦           ¦   ¦   ¦               ca.js
+¦           ¦   ¦   ¦               cs.js
+¦           ¦   ¦   ¦               cy.js
+¦           ¦   ¦   ¦               de.js
+¦           ¦   ¦   ¦               el.js
+¦           ¦   ¦   ¦               en.js
+¦           ¦   ¦   ¦               eo.js
+¦           ¦   ¦   ¦               es.js
+¦           ¦   ¦   ¦               et.js
+¦           ¦   ¦   ¦               fa.js
+¦           ¦   ¦   ¦               fi.js
+¦           ¦   ¦   ¦               fr-ca.js
+¦           ¦   ¦   ¦               fr.js
+¦           ¦   ¦   ¦               gl.js
+¦           ¦   ¦   ¦               he.js
+¦           ¦   ¦   ¦               hr.js
+¦           ¦   ¦   ¦               hu.js
+¦           ¦   ¦   ¦               id.js
+¦           ¦   ¦   ¦               it.js
+¦           ¦   ¦   ¦               ja.js
+¦           ¦   ¦   ¦               ku.js
+¦           ¦   ¦   ¦               lv.js
+¦           ¦   ¦   ¦               nb.js
+¦           ¦   ¦   ¦               nl.js
+¦           ¦   ¦   ¦               no.js
+¦           ¦   ¦   ¦               pl.js
+¦           ¦   ¦   ¦               pt-br.js
+¦           ¦   ¦   ¦               pt.js
+¦           ¦   ¦   ¦               ru.js
+¦           ¦   ¦   ¦               si.js
+¦           ¦   ¦   ¦               sk.js
+¦           ¦   ¦   ¦               sl.js
+¦           ¦   ¦   ¦               sq.js
+¦           ¦   ¦   ¦               sv.js
+¦           ¦   ¦   ¦               th.js
+¦           ¦   ¦   ¦               tr.js
+¦           ¦   ¦   ¦               ug.js
+¦           ¦   ¦   ¦               uk.js
+¦           ¦   ¦   ¦               vi.js
+¦           ¦   ¦   ¦               zh-cn.js
+¦           ¦   ¦   ¦               _translationstatus.txt
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---table
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           table.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---tabletools
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦           tableCell.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---templates
+¦           ¦   ¦   ¦   +---dialogs
+¦           ¦   ¦   ¦   ¦       templates.css
+¦           ¦   ¦   ¦   ¦       templates.js
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---templates
+¦           ¦   ¦   ¦       ¦   default.js
+¦           ¦   ¦   ¦       ¦   
+¦           ¦   ¦   ¦       +---images
+¦           ¦   ¦   ¦               template1.gif
+¦           ¦   ¦   ¦               template2.gif
+¦           ¦   ¦   ¦               template3.gif
+¦           ¦   ¦   ¦               
+¦           ¦   ¦   +---wsc
+¦           ¦   ¦       ¦   LICENSE.md
+¦           ¦   ¦       ¦   README.md
+¦           ¦   ¦       ¦   
+¦           ¦   ¦       +---dialogs
+¦           ¦   ¦               ciframe.html
+¦           ¦   ¦               tmp.html
+¦           ¦   ¦               tmpFrameset.html
+¦           ¦   ¦               wsc.css
+¦           ¦   ¦               wsc.js
+¦           ¦   ¦               wsc_ie.js
+¦           ¦   ¦               
+¦           ¦   +---samples
+¦           ¦   ¦   ¦   ajax.html
+¦           ¦   ¦   ¦   api.html
+¦           ¦   ¦   ¦   appendto.html
+¦           ¦   ¦   ¦   datafiltering.html
+¦           ¦   ¦   ¦   divreplace.html
+¦           ¦   ¦   ¦   index.html
+¦           ¦   ¦   ¦   inlineall.html
+¦           ¦   ¦   ¦   inlinebycode.html
+¦           ¦   ¦   ¦   inlinetextarea.html
+¦           ¦   ¦   ¦   jquery.html
+¦           ¦   ¦   ¦   readonly.html
+¦           ¦   ¦   ¦   replacebyclass.html
+¦           ¦   ¦   ¦   replacebycode.html
+¦           ¦   ¦   ¦   sample.css
+¦           ¦   ¦   ¦   sample.js
+¦           ¦   ¦   ¦   sample_posteddata.php
+¦           ¦   ¦   ¦   tabindex.html
+¦           ¦   ¦   ¦   uicolor.html
+¦           ¦   ¦   ¦   uilanguages.html
+¦           ¦   ¦   ¦   xhtmlstyle.html
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---assets
+¦           ¦   ¦   ¦   ¦   posteddata.php
+¦           ¦   ¦   ¦   ¦   sample.css
+¦           ¦   ¦   ¦   ¦   sample.jpg
+¦           ¦   ¦   ¦   ¦   
+¦           ¦   ¦   ¦   +---inlineall
+¦           ¦   ¦   ¦   ¦       logo.png
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---outputxhtml
+¦           ¦   ¦   ¦   ¦       outputxhtml.css
+¦           ¦   ¦   ¦   ¦       
+¦           ¦   ¦   ¦   +---uilanguages
+¦           ¦   ¦   ¦           languages.js
+¦           ¦   ¦   ¦           
+¦           ¦   ¦   +---plugins
+¦           ¦   ¦       +---dialog
+¦           ¦   ¦       ¦   ¦   dialog.html
+¦           ¦   ¦       ¦   ¦   
+¦           ¦   ¦       ¦   +---assets
+¦           ¦   ¦       ¦           my_dialog.js
+¦           ¦   ¦       ¦           
+¦           ¦   ¦       +---enterkey
+¦           ¦   ¦       ¦       enterkey.html
+¦           ¦   ¦       ¦       
+¦           ¦   ¦       +---htmlwriter
+¦           ¦   ¦       ¦   ¦   outputforflash.html
+¦           ¦   ¦       ¦   ¦   outputhtml.html
+¦           ¦   ¦       ¦   ¦   
+¦           ¦   ¦       ¦   +---assets
+¦           ¦   ¦       ¦       +---outputforflash
+¦           ¦   ¦       ¦               outputforflash.fla
+¦           ¦   ¦       ¦               outputforflash.swf
+¦           ¦   ¦       ¦               swfobject.js
+¦           ¦   ¦       ¦               
+¦           ¦   ¦       +---magicline
+¦           ¦   ¦       ¦       magicline.html
+¦           ¦   ¦       ¦       
+¦           ¦   ¦       +---toolbar
+¦           ¦   ¦       ¦       toolbar.html
+¦           ¦   ¦       ¦       
+¦           ¦   ¦       +---wysiwygarea
+¦           ¦   ¦               fullpage.html
+¦           ¦   ¦               
+¦           ¦   +---skins
+¦           ¦       +---moono
+¦           ¦           ¦   dialog.css
+¦           ¦           ¦   dialog_ie.css
+¦           ¦           ¦   dialog_ie7.css
+¦           ¦           ¦   dialog_ie8.css
+¦           ¦           ¦   dialog_iequirks.css
+¦           ¦           ¦   dialog_opera.css
+¦           ¦           ¦   editor.css
+¦           ¦           ¦   editor_gecko.css
+¦           ¦           ¦   editor_ie.css
+¦           ¦           ¦   editor_ie7.css
+¦           ¦           ¦   editor_ie8.css
+¦           ¦           ¦   editor_iequirks.css
+¦           ¦           ¦   icons.png
+¦           ¦           ¦   icons_hidpi.png
+¦           ¦           ¦   readme.md
+¦           ¦           ¦   
+¦           ¦           +---images
+¦           ¦               ¦   arrow.png
+¦           ¦               ¦   close.png
+¦           ¦               ¦   lock-open.png
+¦           ¦               ¦   lock.png
+¦           ¦               ¦   refresh.png
+¦           ¦               ¦   
+¦           ¦               +---hidpi
+¦           ¦                       close.png
+¦           ¦                       lock-open.png
+¦           ¦                       lock.png
+¦           ¦                       refresh.png
+¦           ¦                       
+¦           +---datatables
+¦           ¦   +---css
+¦           ¦   ¦       demo_page.css
+¦           ¦   ¦       demo_table.css
+¦           ¦   ¦       demo_table_jui.css
+¦           ¦   ¦       jquery.dataTables.css
+¦           ¦   ¦       jquery.dataTables_themeroller.css
+¦           ¦   ¦       
+¦           ¦   +---images
+¦           ¦   ¦       back_disabled.png
+¦           ¦   ¦       back_enabled.png
+¦           ¦   ¦       back_enabled_hover.png
+¦           ¦   ¦       favicon.ico
+¦           ¦   ¦       forward_disabled.png
+¦           ¦   ¦       forward_enabled.png
+¦           ¦   ¦       forward_enabled_hover.png
+¦           ¦   ¦       Sorting icons.psd
+¦           ¦   ¦       sort_asc.png
+¦           ¦   ¦       sort_asc_disabled.png
+¦           ¦   ¦       sort_both.png
+¦           ¦   ¦       sort_desc.png
+¦           ¦   ¦       sort_desc_disabled.png
+¦           ¦   ¦       
+¦           ¦   +---js
+¦           ¦   ¦       jquery.dataTables.js
+¦           ¦   ¦       jquery.dataTables.min.js
+¦           ¦   ¦       jquery.js
+¦           ¦   ¦       
+¦           ¦   +---src
+¦           ¦   ¦   ¦   DataTables.js
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---api
+¦           ¦   ¦   ¦       api.internal.js
+¦           ¦   ¦   ¦       api.methods.js
+¦           ¦   ¦   ¦       api.static.js
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---core
+¦           ¦   ¦   ¦       core.ajax.js
+¦           ¦   ¦   ¦       core.columns.js
+¦           ¦   ¦   ¦       core.constructor.js
+¦           ¦   ¦   ¦       core.data.js
+¦           ¦   ¦   ¦       core.draw.js
+¦           ¦   ¦   ¦       core.filter.js
+¦           ¦   ¦   ¦       core.info.js
+¦           ¦   ¦   ¦       core.init.js
+¦           ¦   ¦   ¦       core.length.js
+¦           ¦   ¦   ¦       core.page.js
+¦           ¦   ¦   ¦       core.processing.js
+¦           ¦   ¦   ¦       core.scrolling.js
+¦           ¦   ¦   ¦       core.sizing.js
+¦           ¦   ¦   ¦       core.sort.js
+¦           ¦   ¦   ¦       core.state.js
+¦           ¦   ¦   ¦       core.support.js
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---ext
+¦           ¦   ¦   ¦       ext.classes.js
+¦           ¦   ¦   ¦       ext.paging.js
+¦           ¦   ¦   ¦       ext.sorting.js
+¦           ¦   ¦   ¦       ext.types.js
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---model
+¦           ¦   ¦           model.column.js
+¦           ¦   ¦           model.defaults.columns.js
+¦           ¦   ¦           model.defaults.js
+¦           ¦   ¦           model.ext.js
+¦           ¦   ¦           model.row.js
+¦           ¦   ¦           model.search.js
+¦           ¦   ¦           model.settings.js
+¦           ¦   ¦           
+¦           ¦   +---unit_testing
+¦           ¦       ¦   controller.js
+¦           ¦       ¦   controller.php
+¦           ¦       ¦   index.html
+¦           ¦       ¦   unit_test.js
+¦           ¦       ¦   
+¦           ¦       +---performance
+¦           ¦       ¦       draw.html
+¦           ¦       ¦       large.php
+¦           ¦       ¦       page.html
+¦           ¦       ¦       sort.html
+¦           ¦       ¦       
+¦           ¦       +---templates
+¦           ¦       ¦       -complex_header.php
+¦           ¦       ¦       2512.php
+¦           ¦       ¦       6776.php
+¦           ¦       ¦       complex_header_2.php
+¦           ¦       ¦       deferred_table.php
+¦           ¦       ¦       dom_data.php
+¦           ¦       ¦       dom_data_th.php
+¦           ¦       ¦       dom_data_two_headers.php
+¦           ¦       ¦       dymanic_table.php
+¦           ¦       ¦       empty_table.php
+¦           ¦       ¦       html_table.php
+¦           ¦       ¦       js_data.php
+¦           ¦       ¦       js_data_mixed_types.php
+¦           ¦       ¦       two_tables.php
+¦           ¦       ¦       
+¦           ¦       +---tests
+¦           ¦       ¦   +---1_dom
+¦           ¦       ¦           _zero_config.js
+¦           ¦       ¦           
+¦           ¦       +---tests_onhold
+¦           ¦           +---1_dom
+¦           ¦           ¦       -complex_header.js
+¦           ¦           ¦       -iDraw.js
+¦           ¦           ¦       2512.js
+¦           ¦           ¦       2530-2.js
+¦           ¦           ¦       2530.js
+¦           ¦           ¦       2569.js
+¦           ¦           ¦       2600.js
+¦           ¦           ¦       2608.js
+¦           ¦           ¦       2635.js
+¦           ¦           ¦       2746-stable-sort.js
+¦           ¦           ¦       2799.js
+¦           ¦           ¦       2840-restore-table-width.js
+¦           ¦           ¦       2914-state-save-sort.js
+¦           ¦           ¦       5396-fnUpdate-arrays-mData.js
+¦           ¦           ¦       5396-fnUpdate-arrays.js
+¦           ¦           ¦       5508-xscroll-zero-content.js
+¦           ¦           ¦       6776-scrolling-table-grows.js
+¦           ¦           ¦       aaSorting.js
+¦           ¦           ¦       aaSortingFixed.js
+¦           ¦           ¦       aoColumns.bSearchable.js
+¦           ¦           ¦       aoColumns.bSortable.js
+¦           ¦           ¦       aoColumns.bUseRendered.js
+¦           ¦           ¦       aoColumns.bVisible.js
+¦           ¦           ¦       aoColumns.bVisible2.js
+¦           ¦           ¦       aoColumns.fnRender.js
+¦           ¦           ¦       aoColumns.iDataSort.js
+¦           ¦           ¦       aoColumns.sClass.js
+¦           ¦           ¦       aoColumns.sName.js
+¦           ¦           ¦       aoColumns.sTitle.js
+¦           ¦           ¦       aoColumns.sWidth.js
+¦           ¦           ¦       aoSearchCols.js
+¦           ¦           ¦       asStripClasses.js
+¦           ¦           ¦       bAutoWidth.js
+¦           ¦           ¦       bFilter.js
+¦           ¦           ¦       bInfiniteScroll.js
+¦           ¦           ¦       bInfo.js
+¦           ¦           ¦       bJQueryUI.js
+¦           ¦           ¦       bLengthChange.js
+¦           ¦           ¦       bPaginate.js
+¦           ¦           ¦       bProcessing.js
+¦           ¦           ¦       bServerSide.js
+¦           ¦           ¦       bSort.js
+¦           ¦           ¦       bSortCellsTop.js
+¦           ¦           ¦       bSortClasses.js
+¦           ¦           ¦       fnCookieCallback.js
+¦           ¦           ¦       fnCreatedCell.js
+¦           ¦           ¦       fnCreatedRow.js
+¦           ¦           ¦       fnDeleteRow.js
+¦           ¦           ¦       fnDrawCallback.js
+¦           ¦           ¦       fnFilter.js
+¦           ¦           ¦       fnFooterCallback.js
+¦           ¦           ¦       fnHeaderCallback.js
+¦           ¦           ¦       fnInfoCallback.js
+¦           ¦           ¦       fnInitComplete.js
+¦           ¦           ¦       fnRowCallback.js
+¦           ¦           ¦       fnSetColumnVis.js
+¦           ¦           ¦       fnSetColumnVis2.js
+¦           ¦           ¦       html-autodetect-sort.js
+¦           ¦           ¦       iDisplayLength.js
+¦           ¦           ¦       oLanguage.oPaginate.js
+¦           ¦           ¦       oLanguage.sInfo.js
+¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦           ¦           ¦       oLanguage.sProcessing.js
+¦           ¦           ¦       oLanguage.sSearch.js
+¦           ¦           ¦       oLanguage.sUrl.js
+¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦           ¦           ¦       oSearch.js
+¦           ¦           ¦       sAjaxSource.js
+¦           ¦           ¦       sDom.js
+¦           ¦           ¦       sPaginationType.js
+¦           ¦           ¦       sScrollXY.js
+¦           ¦           ¦       th_in_body.js
+¦           ¦           ¦       _getDataFunctions.js
+¦           ¦           ¦       _setDataFunctions.js
+¦           ¦           ¦       _zero_config.js
+¦           ¦           ¦       
+¦           ¦           +---2_js
+¦           ¦           ¦       39-nested-null.js
+¦           ¦           ¦       6872-default-content-missing-props.js
+¦           ¦           ¦       8549--string-sorting-nonstrings.js
+¦           ¦           ¦       aaSorting.js
+¦           ¦           ¦       aaSortingFixed.js
+¦           ¦           ¦       aoColumns.bSearchable.js
+¦           ¦           ¦       aoColumns.bSortable.js
+¦           ¦           ¦       aoColumns.bUseRendered.js
+¦           ¦           ¦       aoColumns.bVisible.js
+¦           ¦           ¦       aoColumns.fnRender.js
+¦           ¦           ¦       aoColumns.iDataSort.js
+¦           ¦           ¦       aoColumns.sClass.js
+¦           ¦           ¦       aoColumns.sName.js
+¦           ¦           ¦       aoColumns.sTitle.js
+¦           ¦           ¦       aoColumns.sWidth.js
+¦           ¦           ¦       aoSearchCols.js
+¦           ¦           ¦       asStripClasses.js
+¦           ¦           ¦       bAutoWidth.js
+¦           ¦           ¦       bFilter.js
+¦           ¦           ¦       bInfo.js
+¦           ¦           ¦       bLengthChange.js
+¦           ¦           ¦       bPaginate.js
+¦           ¦           ¦       bProcessing.js
+¦           ¦           ¦       bServerSide.js
+¦           ¦           ¦       bSort.js
+¦           ¦           ¦       bSortClasses.js
+¦           ¦           ¦       fnCreatedCell.js
+¦           ¦           ¦       fnCreatedRow.js
+¦           ¦           ¦       fnDrawCallback.js
+¦           ¦           ¦       fnFooterCallback.js
+¦           ¦           ¦       fnHeaderCallback.js
+¦           ¦           ¦       fnInitComplete.js
+¦           ¦           ¦       fnRowCallback.js
+¦           ¦           ¦       iDisplayLength.js
+¦           ¦           ¦       js_data_mixed_types.js
+¦           ¦           ¦       oLanguage.oPaginate.js
+¦           ¦           ¦       oLanguage.sInfo.js
+¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦           ¦           ¦       oLanguage.sProcessing.js
+¦           ¦           ¦       oLanguage.sSearch.js
+¦           ¦           ¦       oLanguage.sUrl.js
+¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦           ¦           ¦       oSearch.js
+¦           ¦           ¦       sAjaxSource.js
+¦           ¦           ¦       sDom.js
+¦           ¦           ¦       sPaginationType.js
+¦           ¦           ¦       _zero_config.js
+¦           ¦           ¦       
+¦           ¦           +---3_ajax
+¦           ¦           ¦       aaSorting.js
+¦           ¦           ¦       aaSortingFixed.js
+¦           ¦           ¦       aoColumns.bSearchable.js
+¦           ¦           ¦       aoColumns.bSortable.js
+¦           ¦           ¦       aoColumns.bUseRendered.js
+¦           ¦           ¦       aoColumns.bVisible.js
+¦           ¦           ¦       aoColumns.fnRender.js
+¦           ¦           ¦       aoColumns.iDataSort.js
+¦           ¦           ¦       aoColumns.sClass.js
+¦           ¦           ¦       aoColumns.sName.js
+¦           ¦           ¦       aoColumns.sTitle.js
+¦           ¦           ¦       aoColumns.sWidth.js
+¦           ¦           ¦       aoSearchCols.js
+¦           ¦           ¦       asStripClasses.js
+¦           ¦           ¦       bAutoWidth.js
+¦           ¦           ¦       bFilter.js
+¦           ¦           ¦       bInfo.js
+¦           ¦           ¦       bLengthChange.js
+¦           ¦           ¦       bPaginate.js
+¦           ¦           ¦       bProcessing.js
+¦           ¦           ¦       bServerSide.js
+¦           ¦           ¦       bSort.js
+¦           ¦           ¦       bSortClasses.js
+¦           ¦           ¦       fnCreatedCell.js
+¦           ¦           ¦       fnCreatedRow.js
+¦           ¦           ¦       fnDrawCallback.js
+¦           ¦           ¦       fnHeaderCallback.js
+¦           ¦           ¦       fnInitComplete.js
+¦           ¦           ¦       fnRowCallback.js
+¦           ¦           ¦       fnServerData.js
+¦           ¦           ¦       iDisplayLength.js
+¦           ¦           ¦       oLanguage.oPaginate.js
+¦           ¦           ¦       oLanguage.sInfo.js
+¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦           ¦           ¦       oLanguage.sLoadingRecords.js
+¦           ¦           ¦       oLanguage.sProcessing.js
+¦           ¦           ¦       oLanguage.sSearch.js
+¦           ¦           ¦       oLanguage.sUrl.js
+¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦           ¦           ¦       oSearch.js
+¦           ¦           ¦       sAjaxDataProp.js
+¦           ¦           ¦       sAjaxDataProp2.js
+¦           ¦           ¦       sAjaxSource.js
+¦           ¦           ¦       sDom.js
+¦           ¦           ¦       sPaginationType.js
+¦           ¦           ¦       _zero_config.js
+¦           ¦           ¦       
+¦           ¦           +---4_server-side
+¦           ¦           ¦       -iDraw.js
+¦           ¦           ¦       2440.js
+¦           ¦           ¦       2569.js
+¦           ¦           ¦       2600.js
+¦           ¦           ¦       aaSorting.js
+¦           ¦           ¦       aaSortingFixed.js
+¦           ¦           ¦       aoColumns.bSearchable.js
+¦           ¦           ¦       aoColumns.bSortable.js
+¦           ¦           ¦       aoColumns.bUseRendered.js
+¦           ¦           ¦       aoColumns.bVisible.js
+¦           ¦           ¦       aoColumns.fnRender.js
+¦           ¦           ¦       aoColumns.sClass.js
+¦           ¦           ¦       aoColumns.sName.js
+¦           ¦           ¦       aoColumns.sTitle.js
+¦           ¦           ¦       aoColumns.sWidth.js
+¦           ¦           ¦       aoSearchCols.js
+¦           ¦           ¦       asStripClasses.js
+¦           ¦           ¦       bAutoWidth.js
+¦           ¦           ¦       bFilter.js
+¦           ¦           ¦       bInfiniteScroll.js
+¦           ¦           ¦       bInfo.js
+¦           ¦           ¦       bLengthChange.js
+¦           ¦           ¦       bPaginate.js
+¦           ¦           ¦       bProcessing.js
+¦           ¦           ¦       bServerSide.js
+¦           ¦           ¦       bSort.js
+¦           ¦           ¦       bSortClasses.js
+¦           ¦           ¦       fnCreatedCell.js
+¦           ¦           ¦       fnCreatedRow.js
+¦           ¦           ¦       fnDrawCallback.js
+¦           ¦           ¦       fnHeaderCallback.js
+¦           ¦           ¦       fnInitComplete.js
+¦           ¦           ¦       fnRowCallback.js
+¦           ¦           ¦       iDeferLoading.js
+¦           ¦           ¦       iDisplayLength.js
+¦           ¦           ¦       oLanguage.oPaginate.js
+¦           ¦           ¦       oLanguage.sInfo.js
+¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦           ¦           ¦       oLanguage.sProcessing.js
+¦           ¦           ¦       oLanguage.sSearch.js
+¦           ¦           ¦       oLanguage.sUrl.js
+¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦           ¦           ¦       oSearch.js
+¦           ¦           ¦       sAjaxDataProp.js
+¦           ¦           ¦       sAjaxSource.js
+¦           ¦           ¦       sDom.js
+¦           ¦           ¦       sPaginationType.js
+¦           ¦           ¦       _zero_config.js
+¦           ¦           ¦       
+¦           ¦           +---5_ajax_objects
+¦           ¦           ¦       aaSorting.js
+¦           ¦           ¦       aaSortingFixed.js
+¦           ¦           ¦       aoColumns.bSearchable.js
+¦           ¦           ¦       aoColumns.bSortable.js
+¦           ¦           ¦       aoColumns.bUseRendered.js
+¦           ¦           ¦       aoColumns.bVisible.js
+¦           ¦           ¦       aoColumns.fnRender.js
+¦           ¦           ¦       aoColumns.iDataSort.js
+¦           ¦           ¦       aoColumns.sClass.js
+¦           ¦           ¦       aoColumns.sName.js
+¦           ¦           ¦       aoColumns.sTitle.js
+¦           ¦           ¦       aoColumns.sWidth.js
+¦           ¦           ¦       aoSearchCols.js
+¦           ¦           ¦       asStripClasses.js
+¦           ¦           ¦       bAutoWidth.js
+¦           ¦           ¦       bFilter.js
+¦           ¦           ¦       bInfo.js
+¦           ¦           ¦       bLengthChange.js
+¦           ¦           ¦       bPaginate.js
+¦           ¦           ¦       bProcessing.js
+¦           ¦           ¦       bServerSide.js
+¦           ¦           ¦       bSort.js
+¦           ¦           ¦       bSortClasses.js
+¦           ¦           ¦       fnDrawCallback.js
+¦           ¦           ¦       fnHeaderCallback.js
+¦           ¦           ¦       fnInitComplete.js
+¦           ¦           ¦       fnRowCallback.js
+¦           ¦           ¦       fnServerData.js
+¦           ¦           ¦       iDisplayLength.js
+¦           ¦           ¦       oLanguage.oPaginate.js
+¦           ¦           ¦       oLanguage.sInfo.js
+¦           ¦           ¦       oLanguage.sInfoEmpty.js
+¦           ¦           ¦       oLanguage.sInfoPostFix.js
+¦           ¦           ¦       oLanguage.sLengthMenu.js
+¦           ¦           ¦       oLanguage.sProcessing.js
+¦           ¦           ¦       oLanguage.sSearch.js
+¦           ¦           ¦       oLanguage.sUrl.js
+¦           ¦           ¦       oLanguage.sZeroRecords.js
+¦           ¦           ¦       oSearch.js
+¦           ¦           ¦       sAjaxSource.js
+¦           ¦           ¦       sDom.js
+¦           ¦           ¦       sPaginationType.js
+¦           ¦           ¦       _zero_config.js
+¦           ¦           ¦       _zero_config_arrays_subobjects.js
+¦           ¦           ¦       _zero_config_deep.js
+¦           ¦           ¦       _zero_config_mDataProp.js
+¦           ¦           ¦       _zero_config_null_source.js
+¦           ¦           ¦       _zero_config_objects.js
+¦           ¦           ¦       _zero_config_objects_subarrays.js
+¦           ¦           ¦       
+¦           ¦           +---6_delayed_rendering
+¦           ¦                   aaSorting.js
+¦           ¦                   aaSortingFixed.js
+¦           ¦                   aoColumns.bSearchable.js
+¦           ¦                   aoColumns.bSortable.js
+¦           ¦                   aoColumns.bUseRendered.js
+¦           ¦                   aoColumns.bVisible.js
+¦           ¦                   aoColumns.fnRender.js
+¦           ¦                   aoColumns.iDataSort.js
+¦           ¦                   aoColumns.sClass.js
+¦           ¦                   aoColumns.sName.js
+¦           ¦                   aoColumns.sTitle.js
+¦           ¦                   aoColumns.sWidth.js
+¦           ¦                   aoSearchCols.js
+¦           ¦                   asStripClasses.js
+¦           ¦                   bAutoWidth.js
+¦           ¦                   bFilter.js
+¦           ¦                   bInfo.js
+¦           ¦                   bLengthChange.js
+¦           ¦                   bPaginate.js
+¦           ¦                   bProcessing.js
+¦           ¦                   bServerSide.js
+¦           ¦                   bSort.js
+¦           ¦                   bSortClasses.js
+¦           ¦                   fnDrawCallback.js
+¦           ¦                   fnHeaderCallback.js
+¦           ¦                   fnInitComplete.js
+¦           ¦                   fnRowCallback.js
+¦           ¦                   fnServerData.js
+¦           ¦                   iDisplayLength.js
+¦           ¦                   oLanguage.oPaginate.js
+¦           ¦                   oLanguage.sInfo.js
+¦           ¦                   oLanguage.sInfoEmpty.js
+¦           ¦                   oLanguage.sInfoPostFix.js
+¦           ¦                   oLanguage.sLengthMenu.js
+¦           ¦                   oLanguage.sProcessing.js
+¦           ¦                   oLanguage.sSearch.js
+¦           ¦                   oLanguage.sUrl.js
+¦           ¦                   oLanguage.sZeroRecords.js
+¦           ¦                   oSearch.js
+¦           ¦                   sAjaxDataProp.js
+¦           ¦                   sAjaxDataProp2.js
+¦           ¦                   sAjaxSource.js
+¦           ¦                   sDom.js
+¦           ¦                   sPaginationType.js
+¦           ¦                   _zero_config.js
+¦           ¦                   
+¦           +---datepicker
+¦           ¦       datepicker.css
+¦           ¦       
+¦           +---easypiechart
+¦           ¦   ¦   jquery.easy-pie-chart.css
+¦           ¦   ¦   jquery.easy-pie-chart.js
+¦           ¦   ¦   
+¦           ¦   +---examples
+¦           ¦           excanvas.js
+¦           ¦           index.html
+¦           ¦           style.css
+¦           ¦           
+¦           +---flot
+¦           ¦   ¦   .gitignore
+¦           ¦   ¦   .travis.yml
+¦           ¦   ¦   API.md
+¦           ¦   ¦   component.json
+¦           ¦   ¦   CONTRIBUTING.md
+¦           ¦   ¦   excanvas.js
+¦           ¦   ¦   excanvas.min.js
+¦           ¦   ¦   FAQ.md
+¦           ¦   ¦   flot.jquery.json
+¦           ¦   ¦   jquery.colorhelpers.js
+¦           ¦   ¦   jquery.flot.canvas.js
+¦           ¦   ¦   jquery.flot.categories.js
+¦           ¦   ¦   jquery.flot.crosshair.js
+¦           ¦   ¦   jquery.flot.errorbars.js
+¦           ¦   ¦   jquery.flot.fillbetween.js
+¦           ¦   ¦   jquery.flot.image.js
+¦           ¦   ¦   jquery.flot.js
+¦           ¦   ¦   jquery.flot.navigate.js
+¦           ¦   ¦   jquery.flot.pie.js
+¦           ¦   ¦   jquery.flot.resize.js
+¦           ¦   ¦   jquery.flot.selection.js
+¦           ¦   ¦   jquery.flot.stack.js
+¦           ¦   ¦   jquery.flot.symbol.js
+¦           ¦   ¦   jquery.flot.threshold.js
+¦           ¦   ¦   jquery.flot.time.js
+¦           ¦   ¦   jquery.js
+¦           ¦   ¦   LICENSE.txt
+¦           ¦   ¦   Makefile
+¦           ¦   ¦   NEWS.md
+¦           ¦   ¦   package.json
+¦           ¦   ¦   PLUGINS.md
+¦           ¦   ¦   README.md
+¦           ¦   ¦   
+¦           ¦   +---examples
+¦           ¦       ¦   background.png
+¦           ¦       ¦   basic-canvas.html
+¦           ¦       ¦   examples.css
+¦           ¦       ¦   index.html
+¦           ¦       ¦   
+¦           ¦       +---ajax
+¦           ¦       ¦       data-eu-gdp-growth-1.json
+¦           ¦       ¦       data-eu-gdp-growth-2.json
+¦           ¦       ¦       data-eu-gdp-growth-3.json
+¦           ¦       ¦       data-eu-gdp-growth-4.json
+¦           ¦       ¦       data-eu-gdp-growth-5.json
+¦           ¦       ¦       data-eu-gdp-growth.json
+¦           ¦       ¦       data-japan-gdp-growth.json
+¦           ¦       ¦       data-usa-gdp-growth.json
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---annotating
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---axes-interacting
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---axes-multiple
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---axes-time
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---axes-time-zones
+¦           ¦       ¦   ¦   date.js
+¦           ¦       ¦   ¦   index.html
+¦           ¦       ¦   ¦   
+¦           ¦       ¦   +---tz
+¦           ¦       ¦           africa
+¦           ¦       ¦           antarctica
+¦           ¦       ¦           asia
+¦           ¦       ¦           australasia
+¦           ¦       ¦           backward
+¦           ¦       ¦           etcetera
+¦           ¦       ¦           europe
+¦           ¦       ¦           factory
+¦           ¦       ¦           iso3166.tab
+¦           ¦       ¦           leapseconds
+¦           ¦       ¦           northamerica
+¦           ¦       ¦           pacificnew
+¦           ¦       ¦           solar87
+¦           ¦       ¦           solar88
+¦           ¦       ¦           solar89
+¦           ¦       ¦           southamerica
+¦           ¦       ¦           systemv
+¦           ¦       ¦           yearistype.sh
+¦           ¦       ¦           zone.tab
+¦           ¦       ¦           
+¦           ¦       +---basic-options
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---basic-usage
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---canvas
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---categories
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---image
+¦           ¦       ¦       hs-2004-27-a-large-web.jpg
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---interacting
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---navigate
+¦           ¦       ¦       arrow-down.gif
+¦           ¦       ¦       arrow-left.gif
+¦           ¦       ¦       arrow-right.gif
+¦           ¦       ¦       arrow-up.gif
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---percentiles
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---realtime
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---resize
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---selection
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---series-errorbars
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---series-pie
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---series-toggle
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---series-types
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---shared
+¦           ¦       ¦   +---jquery-ui
+¦           ¦       ¦           jquery-ui.min.css
+¦           ¦       ¦           
+¦           ¦       +---stacking
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---symbols
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---threshold
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---tracking
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---visitors
+¦           ¦       ¦       index.html
+¦           ¦       ¦       
+¦           ¦       +---zooming
+¦           ¦               index.html
+¦           ¦               
+¦           +---fullcalendar
+¦           ¦       fullcalendar.css
+¦           ¦       fullcalendar.js
+¦           ¦       fullcalendar.min.js
+¦           ¦       fullcalendar.print.css
+¦           ¦       gcal.js
+¦           ¦       
+¦           +---jGrowl
+¦           ¦   ¦   .gitignore
+¦           ¦   ¦   jgrowl.jquery.json
+¦           ¦   ¦   jquery.jgrowl.css
+¦           ¦   ¦   jquery.jgrowl.js
+¦           ¦   ¦   LICENSE
+¦           ¦   ¦   README.md
+¦           ¦   ¦   
+¦           ¦   +---examples
+¦           ¦           iphone.png
+¦           ¦           jgrowl-pool.html
+¦           ¦           jgrowl.html
+¦           ¦           multiple-containers.html
+¦           ¦           sideways.html
+¦           ¦           smoke.png
+¦           ¦           
+¦           +---jquery
+¦           ¦       jquery-1.9.1.js
+¦           ¦       jquery-1.9.1.min.js
+¦           ¦       jquery-ui-1.10.3.js
+¦           ¦       jquery.knob.js
+¦           ¦       jquery.uniform.min.js
+¦           ¦       
+¦           +---modernizr
+¦           ¦       modernizr-2.6.2-respond-1.1.0.min.js
+¦           ¦       
+¦           +---morris
+¦           ¦       morris.css
+¦           ¦       morris.js
+¦           ¦       morris.min.js
+¦           ¦       
+¦           +---raphael
+¦           ¦       raphael-min.js
+¦           ¦       
+¦           +---tinymce
+¦           ¦   ¦   changelog.txt
+¦           ¦   ¦   LICENSE.TXT
+¦           ¦   ¦   
+¦           ¦   +---js
+¦           ¦       +---tinymce
+¦           ¦           ¦   jquery.tinymce.min.js
+¦           ¦           ¦   license.txt
+¦           ¦           ¦   tinymce.min.js
+¦           ¦           ¦   
+¦           ¦           +---langs
+¦           ¦           ¦       readme.md
+¦           ¦           ¦       
+¦           ¦           +---plugins
+¦           ¦           ¦   +---advlist
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---anchor
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---autolink
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---autoresize
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---autosave
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---bbcode
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---charmap
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---code
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---compat3x
+¦           ¦           ¦   ¦       editable_selects.js
+¦           ¦           ¦   ¦       form_utils.js
+¦           ¦           ¦   ¦       mctabs.js
+¦           ¦           ¦   ¦       tiny_mce_popup.js
+¦           ¦           ¦   ¦       validate.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---contextmenu
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---directionality
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---emoticons
+¦           ¦           ¦   ¦   ¦   plugin.min.js
+¦           ¦           ¦   ¦   ¦   
+¦           ¦           ¦   ¦   +---img
+¦           ¦           ¦   ¦           smiley-cool.gif
+¦           ¦           ¦   ¦           smiley-cry.gif
+¦           ¦           ¦   ¦           smiley-embarassed.gif
+¦           ¦           ¦   ¦           smiley-foot-in-mouth.gif
+¦           ¦           ¦   ¦           smiley-frown.gif
+¦           ¦           ¦   ¦           smiley-innocent.gif
+¦           ¦           ¦   ¦           smiley-kiss.gif
+¦           ¦           ¦   ¦           smiley-laughing.gif
+¦           ¦           ¦   ¦           smiley-money-mouth.gif
+¦           ¦           ¦   ¦           smiley-sealed.gif
+¦           ¦           ¦   ¦           smiley-smile.gif
+¦           ¦           ¦   ¦           smiley-surprised.gif
+¦           ¦           ¦   ¦           smiley-tongue-out.gif
+¦           ¦           ¦   ¦           smiley-undecided.gif
+¦           ¦           ¦   ¦           smiley-wink.gif
+¦           ¦           ¦   ¦           smiley-yell.gif
+¦           ¦           ¦   ¦           
+¦           ¦           ¦   +---example
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---example_dependency
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---fullpage
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---fullscreen
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---hr
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---image
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---importcss
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---insertdatetime
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---layer
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---legacyoutput
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---link
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---lists
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---media
+¦           ¦           ¦   ¦       moxieplayer.swf
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---nonbreaking
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---noneditable
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---pagebreak
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---paste
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---preview
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---print
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---save
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---searchreplace
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---spellchecker
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---tabfocus
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---table
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---template
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---textcolor
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---visualblocks
+¦           ¦           ¦   ¦   ¦   plugin.min.js
+¦           ¦           ¦   ¦   ¦   
+¦           ¦           ¦   ¦   +---css
+¦           ¦           ¦   ¦           visualblocks.css
+¦           ¦           ¦   ¦           
+¦           ¦           ¦   +---visualchars
+¦           ¦           ¦   ¦       plugin.min.js
+¦           ¦           ¦   ¦       
+¦           ¦           ¦   +---wordcount
+¦           ¦           ¦           plugin.min.js
+¦           ¦           ¦           
+¦           ¦           +---skins
+¦           ¦           ¦   +---lightgray
+¦           ¦           ¦       ¦   content.inline.min.css
+¦           ¦           ¦       ¦   content.min.css
+¦           ¦           ¦       ¦   skin.ie7.min.css
+¦           ¦           ¦       ¦   skin.min.css
+¦           ¦           ¦       ¦   
+¦           ¦           ¦       +---fonts
+¦           ¦           ¦       ¦       icomoon-small.eot
+¦           ¦           ¦       ¦       icomoon-small.svg
+¦           ¦           ¦       ¦       icomoon-small.ttf
+¦           ¦           ¦       ¦       icomoon-small.woff
+¦           ¦           ¦       ¦       icomoon.eot
+¦           ¦           ¦       ¦       icomoon.svg
+¦           ¦           ¦       ¦       icomoon.ttf
+¦           ¦           ¦       ¦       icomoon.woff
+¦           ¦           ¦       ¦       readme.md
+¦           ¦           ¦       ¦       
+¦           ¦           ¦       +---img
+¦           ¦           ¦               anchor.gif
+¦           ¦           ¦               loader.gif
+¦           ¦           ¦               object.gif
+¦           ¦           ¦               trans.gif
+¦           ¦           ¦               wline.gif
+¦           ¦           ¦               
+¦           ¦           +---themes
+¦           ¦               +---modern
+¦           ¦                       theme.min.js
+¦           ¦                       
+¦           +---uniform
+¦           ¦       uniform.default.css
+¦           ¦       
+¦           +---wizard
+¦           ¦       jquery.bootstrap.wizard.js
+¦           ¦       jquery.bootstrap.wizard.min.js
+¦           ¦       
+¦           +---wysiwyg
+¦                   bootstrap-wysihtml5.css
+¦                   bootstrap-wysihtml5.js
+¦                   wysihtml5-0.3.0.js
+¦                   
++---recordings
+¦   ¦   class_52_2025-10-08_07-00-14.webm
+¦   ¦   class_53_2025-10-08_08-31-43.webm
+¦   ¦   recording_20251003_183535.webm
+¦   ¦   recording_20251003_184419.webm
+¦   ¦   recording_20251003_190830.webm
+¦   ¦   recording_20251003_192637.webm
+¦   ¦   recording_20251003_200346.webm
+¦   ¦   recording_20251004_065002.webm
+¦   ¦   recording_20251004_065020.webm
+¦   ¦   recording_20251004_065136.webm
+¦   ¦   
+¦   +---final
+¦   +---tmp
++---student_announcements
+¦       annoucement_link_student.php
+¦       announcements_student.php
+¦       
++---student_assignments
+¦       assignment_link_student.php
+¦       assignment_student.php
+¦       assign_save.php
+¦       submit_assignment.php
+¦       submit_assignment_sidebar.php
+¦       upload_assignment.php
+¦       
++---student_avatar
+¦       avatar_modal_student.php
+¦       student_avatar.php
+¦       
++---student_backpack
+¦       backpack.php
+¦       backpack_sidebar.php
+¦       copy_file.php
+¦       copy_file_student.php
+¦       copy_to_backpack_modal.php
+¦       delete_backpack.php
+¦       modal_backpack_delete.php
+¦       
++---student_calendar
+¦       calendar_script.php
+¦       calendar_student_sidebar.php
+¦       
++---student_classes
+¦       add_previous_class.php
+¦       class_calendar_student.php
+¦       class_sidebar.php
+¦       join_class.php
+¦       my_classes.php
+¦       my_classmates.php
+¦       my_classmates_link.php
+¦       previous_class.php
+¦       search_class.php
+¦       search_other_class.php
+¦       
++---student_downloadables
+¦       downloadable_link_student.php
+¦       downloadable_sidebar_student.php
+¦       downloadable_student.php
+¦       
++---student_messages
+¦       create_message_student.php
+¦       create_message_student_student.php
+¦       read.php
+¦       remove_inbox_message.php
+¦       remove_inbox_message_modal.php
+¦       remove_sent_message.php
+¦       remove_sent_message_modal.php
+¦       reply.php
+¦       reply_inbox_message_modal_student.php
+¦       send_message_student.php
+¦       send_message_student_to_student.php
+¦       sent_message_student.php
+¦       student_message.php
+¦       student_message_sidebar.php
+¦       student_message_student.php
+¦       
++---student_notifications
+¦       student_notification.php
+¦       student_notification_sidebar.php
+¦       student_online.php
+¦       student_online_sidebar.php
+¦       
++---student_print
+¦       print_student.php
+¦       
++---student_progress
+¦       progress.php
+¦       progress_link_student.php
+¦       
++---student_quizzes
+¦       quiz_link.php
+¦       student_quiz_link.php
+¦       student_quiz_list.php
+¦       take_test.php
+¦       
++---student_subject_overview
+¦       subject_overview_link_student.php
+¦       subject_overview_student.php
+¦       
++---teacher_announcements
+¦       add_announcement.php
+¦       add_announcement_save.php
+¦       annoucement_link.php
+¦       announcements.php
+¦       remove_announcements.php
+¦       remove_announcements_modal.php
+¦       teacher_add_announcement_sidebar.php
+¦       
++---teacher_assignments
+¦       add_assignment.php
+¦       add_assignment_save.php
+¦       assignment.php
+¦       assignment_link.php
+¦       delete_assigment_modal.php
+¦       delete_assignment.php
+¦       save_grade.php
+¦       submit_assignment_table.php
+¦       teacher_add_assignment_sidebar.php
+¦       view_submit_assignment.php
+¦       
++---teacher_avatar
+¦       avatar_modal.php
+¦       teacher_avatar.php
+¦       
++---teacher_backpack
+¦       backpack_sidebar_teacher.php
+¦       copy_to_backpack_modal.php
+¦       delete_backpack_teacher.php
+¦       modal_backpack_delete.php
+¦       teacher_backack.php
+¦       
++---teacher_calendar
+¦       add_class_event.php
+¦       calendar_of_events.php
+¦       class_calendar.php
+¦       class_calendar_script.php
+¦       delete_class_event.php
+¦       
++---teacher_class_management
+¦       classes_teacher_slidebar.php
+¦       create_class.php
+¦       create_class_save.php
+¦       delete_class.php
+¦       delete_class_modal.php
+¦       edit_class.php
+¦       my_students.php
+¦       my_students_breadcrums.php
+¦       online_teacher_slidebar.php
+¦       remove_student.php
+¦       remove_student_modal.php
+¦       teacher_class.php
+¦       update_class.php
+¦       
++---teacher_downloadables
+¦       add_downloadable.php
+¦       add_downloadable_save.php
+¦       delete_download_modal.php
+¦       delete_file.php
+¦       downloadable.php
+¦       downloadable_link.php
+¦       teacher_add_downloadable_sidebar.php
+¦       
++---teacher_messages
+¦       create_message.php
+¦       create_message_teacher.php
+¦       read.php
+¦       read_teacher.php
+¦       remove_inbox_message.php
+¦       remove_inbox_message_modal.php
+¦       remove_sent_message.php
+¦       remove_sent_message_modal.php
+¦       reply.php
+¦       reply_inbox_message_modal.php
+¦       send_message.php
+¦       send_message_teacher_to_student.php
+¦       sent_message.php
+¦       teacher_message.php
+¦       teacher_message_sidebar.php
+¦       teacher_message_teacher.php
+¦       
++---teacher_notifications
+¦       notification_teacher.php
+¦       teacher_notification_sidebar.php
+¦       teacher_online.php
+¦       teacher_online_sidebar.php
+¦       
++---teacher_online_classes
+¦       class_attendance.php
+¦       class_recordings.php
+¦       delete_recordings.php
+¦       download_recording.php
+¦       merge_chunks.php
+¦       play_recording.php
+¦       save_recording.php
+¦       timer.ajax.php
+¦       upload_chunk.php
+¦       
++---teacher_quizzes
+¦       add_question.php
+¦       add_quiz.php
+¦       add_quiz_to_class.php
+¦       class_quiz.php
+¦       delete_class_quiz.php
+¦       delete_quiz.php
+¦       delete_quiz_question.php
+¦       edit_question.php
+¦       edit_quiz.php
+¦       modal_delete_class_quiz.php
+¦       modal_delete_quiz.php
+¦       modal_delete_quiz_question.php
+¦       quiz_question.php
+¦       quiz_sidebar_teacher.php
+¦       teacher_quiz.php
+¦       
++---teacher_sharing
+¦       delete_shared.php
+¦       modal_share_delete.php
+¦       share_sidebar_teacher.php
+¦       teacher_share.php
+¦       
++---teacher_subject_overview
+¦       add_subject_overview.php
+¦       edit_subject_overview.php
+¦       subject_overview.php
+¦       subject_overview_link.php
+¦       
++---utilities
+        count.php
+        dbConnector.php
+        move_to_school_year.php
+        notification_system.php
+        web_control.php
+        
